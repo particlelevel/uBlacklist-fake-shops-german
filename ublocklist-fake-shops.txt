@@ -4,8 +4,9 @@ description: Hides fake shops, list is generated from https://www.watchlist-inte
 homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 ---
 
-# generated on 2025-11-29
+# generated on 2025-12-27
 
+*://*.0el-preiswert-kaufen.de/*
 *://*.1-proof.cyou/*
 *://*.1001clothing.eu/*
 *://*.10figuredentist.com/*
@@ -47,6 +48,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.247pharm.net/*
 *://*.247safegenerics.com/*
 *://*.24apothecary.com/*
+*://*.24autopartsmaster.com/*
 *://*.24bitcoinexchange.com/*
 *://*.24builds.com/*
 *://*.24canadianbest.com/*
@@ -143,6 +145,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.abigsaleequipment.com/*
 *://*.abilityne.com/*
 *://*.abilityv.com/*
+*://*.abilment.com/*
 *://*.abinaslawk.com/*
 *://*.ablebadminton.com/*
 *://*.ablefashionable.com/*
@@ -181,6 +184,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.abstractp.com/*
 *://*.abtreibungspillenrx.online/*
 *://*.abtrucks-trailers.com/*
+*://*.abugarciaangelwelt.com/*
 *://*.abuhasnen.com/*
 *://*.abus-de.com/*
 *://*.abuseacid.com/*
@@ -340,6 +344,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.adorabletotsde.shop/*
 *://*.adorecosyshoes.com/*
 *://*.adornedgems.com/*
+*://*.adovin.de/*
 *://*.adoworshipre.net/*
 *://*.adr-freight-ltd.eu/*
 *://*.adreim.de/*
@@ -360,6 +365,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.advantagewallpaper.com/*
 *://*.advaplusa.com/*
 *://*.advatgeous.com/*
+*://*.advent67.com/*
 *://*.adventamour.at/*
 *://*.adventuied.com/*
 *://*.adventumart.com/*
@@ -439,6 +445,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ag-europe.com/*
 *://*.ag-reparaturservice.at/*
 *://*.agadishop.com/*
+*://*.agbrzr.shop/*
 *://*.agdenimshop.com/*
 *://*.ageics.top/*
 *://*.agence-dbg.fr/*
@@ -490,6 +497,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.aiapp2025.com/*
 *://*.aidanmattoxdress.com/*
 *://*.aido-gooders.com/*
+*://*.aidulovesm.click/*
 *://*.aigenbauer.at/*
 *://*.aigleaustria.com/*
 *://*.aigleosterreich.com/*
@@ -530,6 +538,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.airtooldepot.com/*
 *://*.airtoolsefficient.com/*
 *://*.airtoolsprofessional.com/*
+*://*.airtrackshop.de/*
 *://*.airyclub.com/*
 *://*.airyixe.com/*
 *://*.aisakicks.shop/*
@@ -566,10 +575,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.aktia-global.com/*
 *://*.aktien.ag/*
 *://*.aktienpros.com/*
+*://*.aktion-motorrad.de/*
 *://*.aktionen24.store/*
 *://*.aktionheizung.de/*
 *://*.aktivabenteuer.de/*
 *://*.aktivall.de/*
+*://*.aktivimfreien.com/*
 *://*.aku-vital.de/*
 *://*.akunarfinance.com/*
 *://*.akuratbv.com/*
@@ -616,6 +627,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.alea-mode.com/*
 *://*.alebikeonsale.com/*
 *://*.aleefai.com/*
+*://*.alessistore.com/*
 *://*.alessoria.de/*
 *://*.alexander-veyron.de/*
 *://*.alexandrabergier.com/*
@@ -711,6 +723,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.allesfur-baby.com/*
 *://*.allesheizung.de/*
 *://*.allesnettokredit.com/*
+*://*.allesoutdoor.de/*
 *://*.alletdufte.shop/*
 *://*.alleuropills.com/*
 *://*.allgolfstore.com/*
@@ -744,6 +757,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.allsaintsaustria.at/*
 *://*.allskigear.com/*
 *://*.allsportnew.com/*
+*://*.allstickers.org/*
 *://*.allsummerdress.com/*
 *://*.alltaghero.com/*
 *://*.allthatjazz.at/*
@@ -761,11 +775,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.allusmusic.com/*
 *://*.allusoutdoor.com/*
 *://*.allustrendy.com/*
+*://*.allvoro.com/*
 *://*.allweil.net/*
 *://*.allyhut.com/*
 *://*.almacoco.org/*
 *://*.almana-shop.de/*
 *://*.almostm.top/*
+*://*.alnaturarabatt.com/*
 *://*.aloas.de/*
 *://*.alofixa.com/*
 *://*.alohas.at/*
@@ -779,10 +795,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.aloyogadeutschlande.com/*
 *://*.aloyogasale.de/*
 *://*.aloyogasdeutschland.com/*
+*://*.alp-aire.com/*
 *://*.alpbeat.com/*
 *://*.alpen-malerbetrieb.de/*
 *://*.alpenfaser.de/*
 *://*.alpenfluss.at/*
+*://*.alpenkindmode.com/*
 *://*.alpenlinie.at/*
 *://*.alpenrose-mode.com/*
 *://*.alpenwolken.de/*
@@ -800,7 +818,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.alphastocking.com/*
 *://*.alphateamcars.shop/*
 *://*.alphatradeslimited.com/*
+*://*.alpinamalende.com/*
 *://*.alpinedrive.eu/*
+*://*.alpiner-mode.de/*
 *://*.alpiner-stil.com/*
 *://*.alpineskiequipment.com/*
 *://*.alpinesneakers.de/*
@@ -823,6 +843,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.alternatef.com/*
 *://*.alternatei.com/*
 *://*.alternatey.com/*
+*://*.alternativastools.cl/*
 *://*.altes-bahnhoefli.de/*
 *://*.altgoldhandel.at/*
 *://*.althaus-kredit.com/*
@@ -850,6 +871,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.alvarezmarta.com/*
 *://*.alvaxi.com/*
 *://*.alwaysstars.com/*
+*://*.alyatransports.com/*
 *://*.amadeoh.at/*
 *://*.amadeus-markets.com/*
 *://*.amagliecalcio.com/*
@@ -867,6 +889,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.amazenda.com/*
 *://*.amazing-items.uk/*
 *://*.amazinpillows.com/*
+*://*.amaznboxde.com/*
 *://*.amazonatfor.com/*
 *://*.amazonboxs.de/*
 *://*.amazonboxus.com/*
@@ -1030,6 +1053,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ang-angebote.com/*
 *://*.angebote-at.com/*
 *://*.angebotebikini.com/*
+*://*.angebotekorum.com/*
 *://*.angeboteschuhe.de/*
 *://*.angela-cosmetics.de/*
 *://*.angelaromaticsde.shop/*
@@ -1039,11 +1063,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.angelgeschaft-prada.com/*
 *://*.angelhaft.de/*
 *://*.angelicaiannucci.com/*
+*://*.angelnmitchell.com/*
 *://*.angelnsneu.com/*
 *://*.angelntoolrabattde.com/*
 *://*.angelnverkauf.com/*
 *://*.angelofstyle.de/*
 *://*.angelosimone.com/*
+*://*.angelzubehoerladen.com/*
 *://*.angenehme.de/*
 *://*.angiecutlery.shop/*
 *://*.anglediscount.com/*
@@ -1072,6 +1098,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.anhangerplus.com/*
 *://*.anhangerr.com/*
 *://*.anhangershop-24.com/*
+*://*.anhangershop.com/*
 *://*.anhangershop24.com/*
 *://*.anhangershopsey.com/*
 *://*.ani--zoo.com/*
@@ -1147,6 +1174,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.answerafor.com/*
 *://*.antcarry.com/*
 *://*.antenaschile.cl/*
+*://*.antepmobilya.com/*
 *://*.anthead.club/*
 *://*.anthia.top/*
 *://*.anthonylogrande.com/*
@@ -1182,6 +1210,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.aoshimamodel.com/*
 *://*.aoshimatoys.com/*
 *://*.aosscal.de/*
+*://*.aoxji.shop/*
 *://*.apalachicolatech.org/*
 *://*.aparipalan.com/*
 *://*.apartfold.com/*
@@ -1206,6 +1235,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.apoamerbach.com/*
 *://*.apohealth.shop/*
 *://*.apollosstation.com/*
+*://*.apollus24.com/*
 *://*.apoluna.space/*
 *://*.apoonto.top/*
 *://*.apotek-no24.com/*
@@ -1311,6 +1341,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.aquaadvent.com/*
 *://*.aquacompasstrade.com/*
 *://*.aquamarinashopde.com/*
+*://*.aquarienbedarf.com/*
 *://*.aquarienkauf.com/*
 *://*.aquarisonlineshop.de/*
 *://*.aquaristik-seiten.de/*
@@ -1328,6 +1359,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.aquaticsportshop.com/*
 *://*.aquaticsstoreus.com/*
 *://*.aquavibespro.com/*
+*://*.arabankloan.online/*
 *://*.arabhieen.com/*
 *://*.arabischlernen.at/*
 *://*.arabues.de/*
@@ -1380,6 +1412,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ariat-megasales.shop/*
 *://*.ariat-osterreich.at/*
 *://*.ariat-western.com/*
+*://*.ariatde.de/*
 *://*.ariatfactoryoutlet.com/*
 *://*.arieljewe.online/*
 *://*.arielozg.com/*
@@ -1488,6 +1521,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.asculbertson.com/*
 *://*.asdoriente.it/*
 *://*.asdvance.com/*
+*://*.asfemaqi.cyou/*
 *://*.asffnag.mom/*
 *://*.asfiinag.at/*
 *://*.asfimag.mom/*
@@ -1504,8 +1538,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.asfinagl.com/*
 *://*.asfInay.com/*
 *://*.asfindlgital.cfd/*
+*://*.asfineg.com/*
 *://*.asfinna.info/*
+*://*.asfinsde.com/*
 *://*.asfintarg.com/*
+*://*.asfishop.com/*
 *://*.asflnag.com/*
 *://*.asflnag.lat/*
 *://*.asflnag.xyz/*
@@ -1517,6 +1554,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.asgeirpetursson.com/*
 *://*.ash-modern.com/*
 *://*.ashatoslombardini.com/*
+*://*.ashbergh.com/*
 *://*.ashfans.com/*
 *://*.ashlen.co/*
 *://*.ashramindk.com/*
@@ -1526,6 +1564,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.asicminerco.com/*
 *://*.asics-deutschland.com/*
 *://*.ASICS-osterreich.com/*
+*://*.asics-outlet.de/*
 *://*.asics-schweiz.com/*
 *://*.asicsat.at/*
 *://*.asicsde.de/*
@@ -1589,11 +1628,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.astaattacco.com/*
 *://*.astakyhn.com/*
 *://*.astelia.de/*
+*://*.astfinag-shop.com/*
 *://*.astfingrat.de/*
 *://*.astodevy.com/*
 *://*.astonishmi.com/*
 *://*.astorytoys.com/*
 *://*.astotbuy.com/*
+*://*.astragroupholding.com/*
 *://*.astrant.top/*
 *://*.astronomyh.com/*
 *://*.asuleas.com/*
@@ -1706,6 +1747,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.auniversaltool.com/*
 *://*.auntdaisysshop.com/*
 *://*.auntgear.com/*
+*://*.auntsunclestassen.com/*
 *://*.aura-basel.ch/*
 *://*.aurahous.com/*
 *://*.auraineg.com/*
@@ -1721,6 +1763,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.auroxtrade.net/*
 *://*.aurum-fix-corp.com/*
 *://*.aus-gelassen.de/*
+*://*.ausgewalhtheim.de/*
 *://*.auslandcredit.com/*
 *://*.ausrutscher-de.com/*
 *://*.austody.com/*
@@ -1750,7 +1793,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.autocryptooptions.online/*
 *://*.autocyclebest.com/*
 *://*.autocyclesale.com/*
+*://*.autodichtung.com/*
 *://*.autoexpertpartshop.com/*
+*://*.autogearlabflow.com/*
 *://*.autoglobalshipping.com/*
 *://*.autohausbismuth.de/*
 *://*.autohobby.at/*
@@ -1767,6 +1812,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.automotivehandtools.shop/*
 *://*.automotives-keim.gmbh/*
 *://*.automotorradkomponente.com/*
+*://*.autopartssave.com/*
 *://*.autoreifen-abel.com/*
 *://*.autoreifen-barth.shop/*
 *://*.autoreifen-benz.shop/*
@@ -1919,6 +1965,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.axl-staking.de/*
 *://*.axlaoz.com/*
 *://*.axluxury.com/*
+*://*.axmof.de/*
 *://*.axnam.com/*
 *://*.axonrcparts.com/*
 *://*.axorisshop.com/*
@@ -1959,6 +2006,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.baar-gaming.store/*
 *://*.babara-mode.com/*
 *://*.babaroni.de/*
+*://*.babaschmuck.de/*
 *://*.bablleny.com/*
 *://*.baby-apparel.store/*
 *://*.baby-rostock.com/*
@@ -1967,6 +2015,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.baby1one.shop/*
 *://*.babyand-child.com/*
 *://*.babyanimal.shop/*
+*://*.babybay-de.com/*
 *://*.babybesteckprada.de/*
 *://*.babyboss.uk/*
 *://*.babybottoms.shop/*
@@ -1978,6 +2027,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.babychamp-handel.de/*
 *://*.babyfuxde.shop/*
 *://*.babygluckde.com/*
+*://*.babyglueckshop.com/*
 *://*.babygolde.shop/*
 *://*.babyharrisproductions.com/*
 *://*.babyhealthmall.store/*
@@ -1986,6 +2036,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.babykindwelt.de/*
 *://*.babykleidungde.de/*
 *://*.babylachelt.de/*
+*://*.babymarktkauf.com/*
 *://*.babymodeneu.com/*
 *://*.babymoovde.shop/*
 *://*.babynetp.shop/*
@@ -2004,6 +2055,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.babytoysangebote.de/*
 *://*.babytoyslimited.store/*
 *://*.babywarepromo.com/*
+*://*.babyweltde.com/*
 *://*.bacedic.com/*
 *://*.bachelorm.com/*
 *://*.back-attack.de/*
@@ -2017,10 +2069,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.backpacksschritte.com/*
 *://*.backshape.de/*
 *://*.badakzente.shop/*
+*://*.badeanzugeneu.com/*
 *://*.bademodeberlin.com/*
 *://*.badespielzeugstore.com/*
 *://*.badezimmerfein.com/*
 *://*.badezimmershopde.com/*
+*://*.badezimmerstil.com/*
 *://*.badezimmertextiliende.com/*
 *://*.badgyalbrand.com/*
 *://*.badhaushalt.com/*
@@ -2058,6 +2112,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bagsvintage.com/*
 *://*.baguesdefiancailles.com/*
 *://*.bahismaksat.com/*
+*://*.bahiwa.com/*
 *://*.bahnhof-apotheke-hersbruck.de/*
 *://*.bahovekapie.com/*
 *://*.baibae.com/*
@@ -2181,6 +2236,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.barical.top/*
 *://*.barkershoes-uk.com/*
 *://*.barkeruk.com/*
+*://*.barki-shop.de/*
 *://*.barlene.de/*
 *://*.barleybeam.com/*
 *://*.barlleiy.com/*
@@ -2243,6 +2299,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.basketswish.com/*
 *://*.baskifie.com/*
 *://*.bassiami.com/*
+*://*.bassthompson.com/*
 *://*.bastelschachtel.shop/*
 *://*.basternf.com/*
 *://*.baswad.com/*
@@ -2312,6 +2369,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.baurmodehaus.de/*
 *://*.baustellenbedarfbillig.com/*
 *://*.baustellenbedarfrabatt.com/*
+*://*.bauteilegest.com/*
 *://*.bauzentrum-deutschland24.de/*
 *://*.bavarianvogue.de/*
 *://*.bavariasis.com/*
@@ -2402,6 +2460,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.beautyfulu.com/*
 *://*.beautygiftsets.com/*
 *://*.beautyhausberlin.de/*
+*://*.beautyketten.com/*
 *://*.beautykolor.com/*
 *://*.beautylir.com/*
 *://*.beautypassword.com/*
@@ -2423,7 +2482,6 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bechihiro.com/*
 *://*.beci.pro/*
 *://*.beckche.com/*
-*://*.beckenfit.net/*
 *://*.becker-boutique.com/*
 *://*.beckerhannover.de/*
 *://*.beckermode.de/*
@@ -2480,6 +2538,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.beiermode.de/*
 *://*.beiids.com/*
 *://*.beinfit.de/*
+*://*.beingpick.click/*
 *://*.beisimple.de/*
 *://*.beja.shop/*
 *://*.bekken.shop/*
@@ -2533,6 +2592,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.belmontr.com/*
 *://*.belna.de/*
 *://*.belogistik.de/*
+*://*.belouu.de/*
 *://*.belowbench.net/*
 *://*.belqasimnajat.com/*
 *://*.belsium.de/*
@@ -2581,6 +2641,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bergbk.de/*
 *://*.berger-research.net/*
 *://*.bergexperten.de/*
+*://*.bergfahrrad.com/*
 *://*.bergfreunde-buy.shop/*
 *://*.bergfreunde-de.com/*
 *://*.bergfreunde-outlet.com/*
@@ -2597,6 +2658,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bergmanngoldschmied.com/*
 *://*.bergmannmode.de/*
 *://*.bergtrophy.at/*
+*://*.bergwalt-mode.com/*
+*://*.bergwanderershop.com/*
 *://*.bergxperten.com/*
 *://*.bergxperten.de/*
 *://*.beriuty.com/*
@@ -2617,6 +2680,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.berlinfast.com/*
 *://*.berlinfog.com/*
 *://*.berlinget.com/*
+*://*.berlinherren.de/*
 *://*.berlinmedz.com/*
 *://*.berlinmoon.com/*
 *://*.berlinmusiccraft.com/*
@@ -2631,6 +2695,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.berlintag.com/*
 *://*.berlinwind.shop/*
 *://*.berlook.com/*
+*://*.bermuda-musicshop.de/*
 *://*.berndundgiselarenz.de/*
 *://*.bernhardt-reifen.com/*
 *://*.bernhardthome.com/*
@@ -2796,6 +2861,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.beststorer.com/*
 *://*.besttar.life/*
 *://*.besttic.xyz/*
+*://*.besttoolsonline-de.com/*
 *://*.besttoolswerkzeug.com/*
 *://*.besttrendnew.com/*
 *://*.bestvcashtransaction.com/*
@@ -2813,6 +2879,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.betontop.com/*
 *://*.betrise-capital.ltd/*
 *://*.betrisecapitals.ltd/*
+*://*.betrmode.com/*
+*://*.betrug.law/*
 *://*.betrugsdezernat.com/*
 *://*.betrugsdezernat.org/*
 *://*.bettdeckenkissen.com/*
@@ -2834,6 +2902,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bewusstsein-ibk.at/*
 *://*.bexis-assets.com/*
 *://*.bexisassets.com/*
+*://*.beyham.com/*
 *://*.beyondard.top/*
 *://*.beyondknots.shop/*
 *://*.beyondtudios.shop/*
@@ -2859,6 +2928,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bhrabatt.com/*
 *://*.bhslogistic.tk/*
 *://*.bhstransport.tk/*
+*://*.biancatstore.com/*
 *://*.bibling.xyz/*
 *://*.bibox-coin.com/*
 *://*.bicycle-clearance.com/*
@@ -2879,7 +2949,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bicycleimpellerde.com/*
 *://*.bicyclelightsshop.com/*
 *://*.bicyclemodern.com/*
+*://*.bicycleonhandlde.com/*
 *://*.bicycleover.com/*
+*://*.bicyclepartde.com/*
 *://*.bicyclepartsde.com/*
 *://*.bicyclepoc.com/*
 *://*.bicycleritchey.com/*
@@ -2932,6 +3004,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bikecheapest.com/*
 *://*.bikeclothesoff.com/*
 *://*.bikecomponents24.de/*
+*://*.bikecomponentsde.com/*
 *://*.bikecozy.com/*
 *://*.bikedevilzde.shop/*
 *://*.bikeequipmentdepot.com/*
@@ -2945,10 +3018,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bikeframesde.com/*
 *://*.bikehandel.com/*
 *://*.bikehosesrabatt.com/*
+*://*.bikehubde.com/*
 *://*.bikeitem.com/*
 *://*.bikelifepro.com/*
 *://*.bikemaintenanceshop.com/*
 *://*.bikemarket.com/*
+*://*.biken-fahrrad.com/*
 *://*.bikenabende.com/*
 *://*.bikenstock.shop/*
 *://*.bikeoccur.com/*
@@ -2957,6 +3032,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bikeopt.com/*
 *://*.bikepartonline.com/*
 *://*.bikepartsale.com/*
+*://*.bikepatchkitprada.com/*
 *://*.bikeperky.com/*
 *://*.bikeplazaonline.com/*
 *://*.bikepleasing.com/*
@@ -2964,6 +3040,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.biker-kids.de/*
 *://*.bikerabatt.com/*
 *://*.bikeridestore.com/*
+*://*.bikerimtapede.com/*
 *://*.bikes-maintenance.com/*
 *://*.bikesattel.at/*
 *://*.bikesecke.com/*
@@ -3009,6 +3086,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.billigbutlers.com/*
 *://*.billigdesignerkleidung.de/*
 *://*.billigeinkaufen.at/*
+*://*.billigelektrofahrrad.com/*
 *://*.billigemedikamenteonline.com/*
 *://*.billiger-heizen.com/*
 *://*.billigerkoffer.com/*
@@ -3049,6 +3127,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.binomst.com/*
 *://*.binotrader.com/*
 *://*.binsalut.com/*
+*://*.bio-brennholz.de/*
 *://*.bio-viertel.at/*
 *://*.bioamsee.de/*
 *://*.bioclicksicilia.it/*
@@ -3202,6 +3281,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bizdrive.at/*
 *://*.bizglobeinvest.com/*
 *://*.bizplug.dk/*
+*://*.bjmining.com/*
 *://*.bjorkcoffee.com/*
 *://*.bjornborgdiscount.com/*
 *://*.bjwdpgzv.shop/*
@@ -3283,6 +3363,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.blueboltchargers.com/*
 *://*.bluecaft.top/*
 *://*.bluecrazybirdlimited.com/*
+*://*.bluedo.de/*
 *://*.blueerrorus.com/*
 *://*.bluehend-land.de/*
 *://*.bluelineca.com/*
@@ -3317,6 +3398,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bluser-shop.com/*
 *://*.blushhomewares.com/*
 *://*.blushysilk.com/*
+*://*.blyss-shop.de/*
 *://*.blyxultraltd.com/*
 *://*.bm-in.com/*
 *://*.bmatbat.com/*
@@ -3337,6 +3419,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.boardss.de/*
 *://*.boardswearsale.com/*
 *://*.boatdusk.com/*
+*://*.boatingcenteronline.com/*
 *://*.boatingoff.com/*
 *://*.boatworkssupply.com/*
 *://*.bobbyananta.com/*
@@ -3382,6 +3465,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.boldalfresco.com/*
 *://*.boldano.de/*
 *://*.boldlowprice.com/*
+*://*.boldnests.com/*
 *://*.boldraiment.com/*
 *://*.bolenso.de/*
 *://*.bollskill.life/*
@@ -3401,6 +3485,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bonluda.de/*
 *://*.bonneauchloee.com/*
 *://*.bonprixsho.shop/*
+*://*.bonusbuyday.com/*
 *://*.bonvoue.de/*
 *://*.boobie.at/*
 *://*.boofashion.de/*
@@ -3431,6 +3516,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bootsga.com/*
 *://*.bootshopmall.com/*
 *://*.bootsoutlet.shop/*
+*://*.bootsprofi.com/*
 *://*.bootsschuheshop.com/*
 *://*.booxfritz.de/*
 *://*.bopsiz.store/*
@@ -3525,6 +3611,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.brachylet.top/*
 *://*.bradfordcutlery.com/*
 *://*.bradyplaza.com/*
+*://*.brafabfurniture.com/*
 *://*.bragreservecooperation.com/*
 *://*.brahedour.shop/*
 *://*.brain-base.de/*
@@ -3610,15 +3697,20 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.brennholz-hofmann.de/*
 *://*.brennholz360.com/*
 *://*.brennholzbereich.com/*
+*://*.brennholzdirekt.com/*
+*://*.brennholzdoeg.com/*
+*://*.brennholzededgar.com/*
 *://*.brennholzfolgner.com/*
 *://*.brennholzkaufende.shop/*
 *://*.brennholzkiefer.com/*
+*://*.brennholzmeister.de/*
 *://*.brennholzplus-austria.com/*
 *://*.brennholzrobinio.com/*
 *://*.brennholzroman.com/*
 *://*.brennholzruhl.de/*
 *://*.brennholzverkaufer.com/*
 *://*.brennholzwerner.de/*
+*://*.brennstoffe-heinrich.de/*
 *://*.brennstoffe-meier.de/*
 *://*.brennstoffe-versand.de/*
 *://*.brestelorn-bank.com/*
@@ -3627,6 +3719,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bretttackle.space/*
 *://*.breuer-boutique.de/*
 *://*.breuer-reifenhandel.shop/*
+*://*.breuermode.de/*
 *://*.breuning-modehaus.com/*
 *://*.breuninger-berlin.de/*
 *://*.breuninger-modehaus.de/*
@@ -3662,6 +3755,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.brightlivingroom.com/*
 *://*.brightoncapitalpartners.net/*
 *://*.brightselectronics.com/*
+*://*.brightsidesavings.com/*
 *://*.brighttalentpro.online/*
 *://*.brightter-fld.com/*
 *://*.brightwayv.com/*
@@ -3674,7 +3768,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bringadharav.com/*
 *://*.bringwish.com/*
 *://*.brinkmann-reifen.com/*
+*://*.brinkmannkanzlei.de/*
 *://*.briobuys.com/*
+*://*.briospielzeug.com/*
+*://*.briospielzeugrabatt.com/*
 *://*.brisa-berlin.de/*
 *://*.briskaari.com/*
 *://*.briskmeind.com/*
@@ -3725,6 +3822,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.brothershopss.com/*
 *://*.brownpopos.com/*
 *://*.brownsona.com/*
+*://*.brownspecialadvice.com/*
 *://*.brownsshoefits.com/*
 *://*.brroe.com/*
 *://*.brs-biogas.at/*
@@ -3785,6 +3883,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.bubofyard.com/*
 *://*.bubucy.com/*
 *://*.buceplantde.shop/*
+*://*.buchbasekiste.com/*
 *://*.buchberger-innsbruck.com/*
 *://*.bucheroase.com/*
 *://*.buchfinden.shop/*
@@ -3848,6 +3947,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.burnoutstopper.at/*
 *://*.bursyswork.live/*
 *://*.burton-shops.com/*
+*://*.burtonde.de/*
 *://*.burtonoutletstore.com/*
 *://*.burtonsnowboard.de/*
 *://*.burtschenko.at/*
@@ -3960,6 +4060,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.byemmabecker.de/*
 *://*.byfianna.de/*
 *://*.byilse.de/*
+*://*.bykidesigns.com/*
 *://*.bylassenhome.com/*
 *://*.bymanova.com/*
 *://*.bymarlie.de/*
@@ -4076,7 +4177,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.campinglampenbillig.com/*
 *://*.campingmay.com/*
 *://*.campingnatur.com/*
+*://*.campingneu.com/*
 *://*.campingpromo.store/*
+*://*.campingstuhleshop.com/*
+*://*.campingsverkauf.com/*
 *://*.campingtools.shop/*
 *://*.campingtrailequip.com/*
 *://*.campingzube.com/*
@@ -4086,6 +4190,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.campslingshot.com/*
 *://*.campstan.com/*
 *://*.camptool-shop.com/*
+*://*.camptotalneu.com/*
 *://*.camptrunkduffel.com/*
 *://*.campwholesale.store/*
 *://*.camshieldcaps.com/*
@@ -4253,6 +4358,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.carygift.com/*
 *://*.caryswimwear.shop/*
 *://*.casaclothing.de/*
+*://*.casadefieras.co/*
 *://*.casafaranda.com/*
 *://*.casamaza.uk/*
 *://*.cascade-luzern.shop/*
@@ -4348,6 +4454,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ccmangebote.com/*
 *://*.ccsneakerstore.com/*
 *://*.cctvins.com/*
+*://*.cdbczz.com/*
 *://*.cdcauldron.com/*
 *://*.cddej.fr/*
 *://*.cdeen.io/*
@@ -4390,6 +4497,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cellphonelocation.net/*
 *://*.celmak.de/*
 *://*.celomarket.com/*
+*://*.celox-hamburg.de/*
 *://*.celticcyberjammies.com/*
 *://*.cemarinef.shop/*
 *://*.cembierzo.com/*
@@ -4491,6 +4599,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.charmfay.com/*
 *://*.charmingpaul.com/*
 *://*.charmsvision.com/*
+*://*.charmtoniesde.com/*
 *://*.charronanais.com/*
 *://*.chartconsultings.com/*
 *://*.charteredcrediblebank.com/*
@@ -4741,6 +4850,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cioksw.com/*
 *://*.ciphercapitalmanagement.com/*
 *://*.cipkol.com/*
+*://*.circuitclo.eu/*
 *://*.circulatem.com/*
 *://*.circumstancen.com/*
 *://*.circumstancen.net/*
@@ -4802,6 +4912,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.clarksshopschweiz.com/*
 *://*.clasicraft.com/*
 *://*.classic-attire.com/*
+*://*.classic-jewelry.de/*
 *://*.classicagacampolin.com/*
 *://*.classicbeaglepuppieshome.com/*
 *://*.classiccitychic.com/*
@@ -4832,6 +4943,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.clearance--store.com/*
 *://*.clearance-kitchen.com/*
 *://*.clearancebath.com/*
+*://*.clearancecraze.com/*
 *://*.clearancecrest.com/*
 *://*.clearancecurrent.com/*
 *://*.clearancecutter.com/*
@@ -4849,6 +4961,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cleclesylvie.com/*
 *://*.clematore.shop/*
 *://*.clementrchrd.com/*
+*://*.cleoberlin.de/*
 *://*.cleoc.at/*
 *://*.clerofy.pics/*
 *://*.clevoire.com/*
@@ -4883,6 +4996,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.clogmyblog.com/*
 *://*.clogssosterreich.com/*
 *://*.clok-en.com/*
+*://*.clolas.com/*
 *://*.clonesuperwatch.ru/*
 *://*.clorislife.com/*
 *://*.clorven.shop/*
@@ -4932,6 +5046,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.clothmotorcycle.com/*
 *://*.cloud--shoes.net/*
 *://*.cloud-mining.at/*
+*://*.cloudapotheke.com/*
 *://*.cloudcryptoexpert.com/*
 *://*.clouddiy.shop/*
 *://*.cloudeo-shop.com/*
@@ -4943,6 +5058,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cloudyearrings.com/*
 *://*.clouseboutique.com/*
 *://*.cloutby.com/*
+*://*.clpmobelrabatt.com/*
 *://*.clrfamily.com/*
 *://*.clubcueca.com/*
 *://*.clubdetirolabastida.com/*
@@ -5006,6 +5122,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.coffeeequipmentsupply.com/*
 *://*.coffeegrinderssale.com/*
 *://*.coffeehotsale.com/*
+*://*.coffeeliftin.com/*
 *://*.coffeemachineonsale.com/*
 *://*.coffeemaestrovip.com/*
 *://*.coffeeshopus.com/*
@@ -5092,6 +5209,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.comelyvibe.store/*
 *://*.comemint.com/*
 *://*.comenhome.com/*
+*://*.comercialandrea.cl/*
 *://*.comerciouruguay.com/*
 *://*.comeslim.com/*
 *://*.comfastwifi.com/*
@@ -5109,6 +5227,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.comfypjs.shop/*
 *://*.comfytravel.de/*
 *://*.comhuvo.com/*
+*://*.comiccharacters-shop.com/*
 *://*.comicsbyhaemi.com/*
 *://*.comicsde.com/*
 *://*.comido-versand.com/*
@@ -5241,6 +5360,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.conywelpen.de/*
 *://*.coodec.com/*
 *://*.coogle.at/*
+*://*.cooho.de/*
 *://*.cook-on-the-bright-side.com/*
 *://*.cookclearance.com/*
 *://*.cookcommodity.com/*
@@ -5322,6 +5442,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cosmoscrisp.com/*
 *://*.cosmosdecade.com/*
 *://*.cosmosix.de/*
+*://*.cosmozone.de/*
 *://*.cosmwmagic.com/*
 *://*.cosplay-space.com/*
 *://*.cosplaydetailed.com/*
@@ -5491,6 +5612,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cruclet.top/*
 *://*.crudeof.com/*
 *://*.crudeoil.click/*
+*://*.crugo.de/*
 *://*.cruitious.top/*
 *://*.crutor.xyz/*
 *://*.cryptex-online.de/*
@@ -5505,6 +5627,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cryptocloudminers.net/*
 *://*.cryptocomebackpro.trade/*
 *://*.cryptocurrencyexz.com/*
+*://*.cryptocybertracing.com/*
 *://*.cryptoinas.com/*
 *://*.cryptokasse.co/*
 *://*.cryptolinkconnect.com/*
@@ -5528,6 +5651,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.csbdbuy.com/*
 *://*.csebasoft.com/*
 *://*.cserveni.at/*
+*://*.csfenagp.icu/*
 *://*.csglog.com/*
 *://*.csi-vienna.at/*
 *://*.csm-maker.com/*
@@ -5564,6 +5688,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cumulativei.com/*
 *://*.cunpotive.net/*
 *://*.cuoed.top/*
+*://*.cups-stanley-cups.de/*
 *://*.curablity.com/*
 *://*.curiou.today/*
 *://*.curlycradle.com/*
@@ -5586,6 +5711,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.curvedream.de/*
 *://*.curveif.com/*
 *://*.curving.top/*
+*://*.cusewin.cc/*
 *://*.cushygait.com/*
 *://*.custably.com/*
 *://*.custom-real-estate.com/*
@@ -5627,6 +5753,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.cyanical.top/*
 *://*.cyber-finances.de/*
 *://*.cyberearth.org/*
+*://*.cybersavercentral.com/*
 *://*.cybertracksolutions.net/*
 *://*.cycle100percent.com/*
 *://*.cycleclothingcheap.com/*
@@ -5678,6 +5805,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dach-hauser.at/*
 *://*.dach-regin.de/*
 *://*.dachdecker-otto.de/*
+*://*.dachtraegeronline.com/*
 *://*.dackelwelpen.at/*
 *://*.dadashopk.com/*
 *://*.dadofthree.com/*
@@ -5718,6 +5846,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.damenmode-obermeininger.com/*
 *://*.damenmode-quelle.de/*
 *://*.damenparfumde.com/*
+*://*.damenstylerabatt.com/*
 *://*.damenverkauf.de/*
 *://*.damiol-tech.de/*
 *://*.dammerlicht.de/*
@@ -5734,6 +5863,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.daniel-grilling.com/*
 *://*.daniel-malorny.de/*
 *://*.danielabaerwelpen.com/*
+*://*.danielius-rogovas.com/*
 *://*.daniellupacchino.com/*
 *://*.danielsconto.shop/*
 *://*.danmarkpotenspiller.com/*
@@ -5780,6 +5910,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dasbuchdeslebens.at/*
 *://*.dasdea.com/*
 *://*.dasedeal.com/*
+*://*.dasegelgeschaft.com/*
 *://*.dashausderjuwelenosterreich.com/*
 *://*.dashdeals.de/*
 *://*.dashuepfenkomma.shop/*
@@ -5828,6 +5959,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dbazaarcheh.com/*
 *://*.dbehringer.de/*
 *://*.dbh-shopping.de/*
+*://*.dbi-edv-handel.de/*
 *://*.dbigvote.com/*
 *://*.dbluecrew.com/*
 *://*.dbrello.de/*
@@ -5849,11 +5981,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ddc4shop.com/*
 *://*.ddypjs.com/*
 *://*.de-addictedtohandbags.com/*
+*://*.de-anwalt.website/*
 *://*.de-bademode.com/*
 *://*.de-bbq.com/*
 *://*.de-bike.com/*
 *://*.de-birke.com/*
 *://*.de-cryptotrade.com/*
+*://*.de-fahrradshop.com/*
+*://*.de-filter.com/*
 *://*.de-finanz.com/*
 *://*.de-fritzberger.com/*
 *://*.de-generatorhouse.de/*
@@ -5861,9 +5996,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.de-kapital.com/*
 *://*.de-kaufland.de/*
 *://*.de-lumelia.com/*
+*://*.de-musicshop.com/*
+*://*.de-napoleon.com/*
+*://*.de-noroki.com/*
 *://*.de-on.shop/*
 *://*.de-outdoor.com/*
 *://*.de-rimowa.shop/*
+*://*.de-schmuckens.com/*
+*://*.de-schuhladen.com/*
 *://*.de-tonies.com/*
 *://*.de-toy.com/*
 *://*.de-trader.com/*
@@ -5910,6 +6050,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dealviral.de/*
 *://*.dealwinkelyes.shop/*
 *://*.dearfashionable.com/*
+*://*.dearomatico.com/*
 *://*.dearskiing.com/*
 *://*.deartedv.com/*
 *://*.deathleta.store/*
@@ -5932,6 +6073,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.decarba-mann.de/*
 *://*.decarba.de/*
 *://*.decarbondeluxe.shop/*
+*://*.decardport.com/*
 *://*.decentake.com/*
 *://*.dechecals.com/*
 *://*.decisionw.com/*
@@ -5971,18 +6113,22 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.deerowu.shop/*
 *://*.deeynee.com/*
 *://*.defahrrad.com/*
+*://*.defahrradkomponenten.com/*
 *://*.defahrradrabatt.com/*
 *://*.defahrrads.com/*
 *://*.deffigallery.com/*
 *://*.defindopro.co/*
 *://*.definitelye.com/*
+*://*.defischersport.com/*
 *://*.defisdartiste.com/*
 *://*.deftcrafts.com/*
 *://*.deftdream.com/*
 *://*.defuserdefense.com/*
 *://*.degartenfreizeit.com/*
 *://*.degartenland.com/*
+*://*.degartenlebens.com/*
 *://*.degesunderlebensstil.com/*
+*://*.degetraenkewelt.com/*
 *://*.degomet.net/*
 *://*.degroceriesshop.com/*
 *://*.deguocmqlrs.com/*
@@ -5991,11 +6137,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.degussa.one/*
 *://*.dehaushalt-prada.com/*
 *://*.dehaushaltszentrum.com/*
+*://*.dehaustierbedarf.com/*
 *://*.dehens.fr/*
 *://*.deherrenmode.com/*
 *://*.dehiking.de/*
 *://*.dehnerde.com/*
 *://*.dehookahblack.shop/*
+*://*.dehundeeinkauf.com/*
+*://*.dehundegeschaft.com/*
 *://*.deichmann-eu.shop/*
 *://*.deichmannflashsale.live/*
 *://*.deichmannoutlet.info/*
@@ -6008,6 +6157,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dein-modehaus.de/*
 *://*.dein-rundfunkbeitrag.de/*
 *://*.dein-schuhheld.com/*
+*://*.dein-sicheres-bad.de/*
 *://*.deinbezirkunddu.at/*
 *://*.deine-djs.de/*
 *://*.deine-mode.shop/*
@@ -6036,6 +6186,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dekarikatur.shop/*
 *://*.dekkerstrans.com/*
 *://*.dekkertransport.com/*
+*://*.dekoobjektrabatt.com/*
 *://*.dekoorialeu.shop/*
 *://*.dekopause.at/*
 *://*.dekorabatt.com/*
@@ -6044,6 +6195,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dekorationsbillig.com/*
 *://*.dekorationsmeister.com/*
 *://*.dekovasen.com/*
+*://*.dekucherabatt.com/*
 *://*.delaamoebelde.shop/*
 *://*.delanzo.de/*
 *://*.delebensmittel.com/*
@@ -6086,8 +6238,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.demays.cc/*
 *://*.demeaningfulbrands.com/*
 *://*.demediz.com/*
+*://*.demedpets.com/*
 *://*.demellierosterreich.com/*
 *://*.demiartdecorations.com/*
+*://*.demirdentalonline.shop/*
 *://*.demobaza.shop/*
 *://*.demoniaaustria.top/*
 *://*.demoniadeutschland.de/*
@@ -6121,6 +6275,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dependablebicycle.com/*
 *://*.depickedwell.site/*
 *://*.depictprime.com/*
+*://*.depinr.com/*
 *://*.deplacer.com/*
 *://*.depopae.com/*
 *://*.depopi.vip/*
@@ -6177,6 +6332,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.descatio.com/*
 *://*.descendank.com/*
 *://*.descenteosterreich.at/*
+*://*.deschuhebillig.com/*
 *://*.descontom.com/*
 *://*.describem.net/*
 *://*.descriptionk.com/*
@@ -6215,6 +6371,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.desirablee.com/*
 *://*.deskimarken.com/*
 *://*.deskisport.com/*
+*://*.desklamplex.com/*
 *://*.desklampzzi.de/*
 *://*.deskpi.com/*
 *://*.desmitrabatt.com/*
@@ -6231,6 +6388,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.destinedy.com/*
 *://*.destinsauconditionnel.com/*
 *://*.destjarnaapparel.com/*
+*://*.destrellson.com/*
 *://*.detaschemode.com/*
 *://*.detectiony.com/*
 *://*.detegut.com/*
@@ -6252,11 +6410,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.deutsche-group.org/*
 *://*.deutsche-wurst-manufaktur.com/*
 *://*.deutschecapitals.com/*
+*://*.deutschechic.de/*
 *://*.deutschekredit-finanz.com/*
 *://*.deutscher-gebuehrendienst.com/*
 *://*.deutscher-link.com/*
 *://*.deutscheschonheit.de/*
+*://*.deutschgeschenkfest.com/*
 *://*.deutschla.de/*
+*://*.deutschland-heizoelpreis.de/*
 *://*.deutschlandschuh.com/*
 *://*.deutschlandsonas.de/*
 *://*.deutschlandticket24.com/*
@@ -6285,12 +6446,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dewatchmall.shop/*
 *://*.deweins.com/*
 *://*.dewelschutz.de/*
+*://*.dewohntraum.com/*
 *://*.dewtoolshop.com/*
 *://*.dexa-coin.com/*
 *://*.dexonirax.com/*
 *://*.dextuls.life/*
 *://*.dexverse.info/*
 *://*.dezallade.com/*
+*://*.dezcmoi.com/*
 *://*.dezelia.de/*
 *://*.dezubehor.com/*
 *://*.dfdge.shop/*
@@ -6362,6 +6525,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.diestrumpfmacher.shop/*
 *://*.diet-keto.info/*
 *://*.dietdiney.com/*
+*://*.dietollemode.com/*
 *://*.dietreviews4you.com/*
 *://*.dietrich-reifenhandel.com/*
 *://*.dieumzugshelfer.at/*
@@ -6531,6 +6695,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.diycommodity.com/*
 *://*.diymalennachzahlen.shop/*
 *://*.diyprofii.com/*
+*://*.diysupplycollective.com/*
 *://*.diytools-store.com/*
 *://*.dj-kumo.de/*
 *://*.djabcu.com/*
@@ -6559,6 +6724,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dme-holz-pellet.com/*
 *://*.dmilhome.com/*
 *://*.dmireox.com/*
+*://*.dmlhrhnv.shop/*
 *://*.dmotruth.com/*
 *://*.dmours.com/*
 *://*.dmrbremsbelag.com/*
@@ -6618,6 +6784,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dolceamara.com/*
 *://*.dolcevitashoe.com/*
 *://*.dolcevitashoessouthafrica.com/*
+*://*.doleras.com/*
 *://*.dolkins.de/*
 *://*.dollsandsofttoys.com/*
 *://*.dolophin.com/*
@@ -6694,6 +6861,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dopikday.de/*
 *://*.dopsnowwear.com/*
 *://*.doramampn.com/*
+*://*.doreenbakos.com/*
 *://*.doreenpitterson.com/*
 *://*.dorenda.de/*
 *://*.dorfkrug-buttlar.de/*
@@ -6811,6 +6979,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.dressfat.com/*
 *://*.dressgattinolli.com/*
 *://*.dresslara.com/*
+*://*.dressnik.com/*
 *://*.dressphaseeight.com/*
 *://*.dressshirtsblouses.com/*
 *://*.dresswithsoul.com/*
@@ -6824,7 +6993,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.driftgarment.com/*
 *://*.driftgreat.club/*
 *://*.drinkear.com/*
+*://*.drinkrelaxo.com/*
 *://*.drinksalesofficial.com/*
+*://*.drinkwineshop.com/*
 *://*.drivedressy.shop/*
 *://*.drivegoodwheels.com/*
 *://*.driveguess.com/*
@@ -6991,6 +7162,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.e-kaufmarkt.at/*
 *://*.e-rad.net/*
 *://*.e-radstore.de/*
+*://*.e-rechberger.at/*
 *://*.e-rollzock.com/*
 *://*.e-shopplat.com/*
 *://*.e-trekkingrader.com/*
@@ -7031,6 +7203,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.easy-darts.com/*
 *://*.easy-oel.de/*
 *://*.easy-rezeptfrei.de/*
+*://*.easybouteque.com/*
 *://*.easycosmtcs.com/*
 *://*.easycrypto4u.com/*
 *://*.easyeveryca.com/*
@@ -7064,6 +7237,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ebaydw.xyz/*
 *://*.ebcdiscount.com/*
 *://*.ebdmp.top/*
+*://*.ebeamconnect.com/*
 *://*.ebereader.top/*
 *://*.eberhard-wurst.de/*
 *://*.eberhardt-kanzlei.de/*
@@ -7073,6 +7247,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ebikeeu.com/*
 *://*.ebikesgeschaft.com/*
 *://*.ebikesshopsales.com/*
+*://*.ebiketeilekauf.com/*
 *://*.ebiketeileverkaufe.com/*
 *://*.ebiribiri.com/*
 *://*.ebisushijo.com/*
@@ -7103,6 +7278,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ececanguden.com/*
 *://*.ecfesw.com/*
 *://*.echaychu.com/*
+*://*.echers.com/*
 *://*.echlat.com/*
 *://*.echodg.online/*
 *://*.echoextremetool.com/*
@@ -7118,6 +7294,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.eclecticfootwear.com/*
 *://*.eclipcoin.com/*
 *://*.eclipseecho.com/*
+*://*.eco-hof.com/*
 *://*.eco-serenity.uk/*
 *://*.ecoalf-online.shop/*
 *://*.ecoalfosterreich.at/*
@@ -7136,6 +7313,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.econser.de/*
 *://*.econtest.it/*
 *://*.ecoooc.com/*
+*://*.ecoreichholz.com/*
 *://*.ecosilkroad.com/*
 *://*.ecosmeticworlde.shop/*
 *://*.ecosolutions-hub.com/*
@@ -7148,8 +7326,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.edasports.shop/*
 *://*.edc-knife.com/*
 *://*.edcbyespritangebote.com/*
+*://*.edcbyespritrabatt.com/*
 *://*.edcmesser.com/*
 *://*.edcosale.com/*
+*://*.edebrennholzedgar.com/*
 *://*.edeka24de.com/*
 *://*.edelina.de/*
 *://*.edelitedrugs.com/*
@@ -7245,6 +7425,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.egrupoagil.com/*
 *://*.egscap.com/*
 *://*.egw-best.nl/*
+*://*.eheringede.com/*
 *://*.ehkschutzengel.de/*
 *://*.ehlers-reifen.com/*
 *://*.ehlertswelpen.com/*
@@ -7269,15 +7450,19 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.einkaufsmarkt-rost.de/*
 *://*.einkommens.club/*
 *://*.eintracht-fechten.de/*
+*://*.eintrachtfrankfurttrikots.de/*
+*://*.einzigartigehaustiere.com/*
 *://*.eioew.com/*
 *://*.eiroshop.lv/*
 *://*.eis-henning.de/*
+*://*.eisangelntackle.com/*
 *://*.eiselefahrrad.de/*
 *://*.eiseleshop.de/*
 *://*.eisenachalsfeld.shop/*
 *://*.eisenbahnzubehorde.com/*
 *://*.eisenhart.at/*
 *://*.eisenwarensale-shop.com/*
+*://*.eishockeyangebot.com/*
 *://*.eisuw.com/*
 *://*.eithermart.top/*
 *://*.ejakojast.shop/*
@@ -7332,6 +7517,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.electro-worlds.shop/*
 *://*.electrodeal.shop/*
 *://*.electrogaiety.com/*
+*://*.electrokaufen.de/*
 *://*.electronic-rc.com/*
 *://*.electronicade.com/*
 *://*.electronicaudio.store/*
@@ -7376,6 +7562,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.elektro-media.com/*
 *://*.elektro-palme.com/*
 *://*.elektro-soforthilfe.at/*
+*://*.elektrogeraterabatt.com/*
 *://*.elektrohandel-schmidt.com/*
 *://*.elektrohandel-wagner.de/*
 *://*.elektroholz.com/*
@@ -7392,6 +7579,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.elektrosuess.at/*
 *://*.elektrotop-shop.com/*
 *://*.elektrowellen.com/*
+*://*.elektrozone24.com/*
 *://*.elementaryt.com/*
 *://*.elementiporta.com/*
 *://*.elenawagner.shop/*
@@ -7430,6 +7618,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.elitekard.de/*
 *://*.elitepie.com/*
 *://*.elitesneakers.store/*
+*://*.elitestayzio2u.com/*
 *://*.elitetravelconciergebookings.cc/*
 *://*.eliteusbaseball.com/*
 *://*.elitewatchcenter.com/*
@@ -7481,6 +7670,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.elternsale.de/*
 *://*.elternundkinderfreude.de/*
 *://*.eltordotango.com/*
+*://*.eltoy.shop/*
 *://*.elumax24.de/*
 *://*.elureea.de/*
 *://*.eluxeoutlet.de/*
@@ -7534,6 +7724,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.emmettretail.online/*
 *://*.emmtekc.com/*
 *://*.emmys.at/*
+*://*.emobilityzubehoer.com/*
 *://*.emondo-online.de/*
 *://*.emp-versand.de/*
 *://*.emper-parfums.de/*
@@ -7624,6 +7815,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.enjify.com/*
 *://*.enjoy-cycle.com/*
 *://*.enjoy-skiing.com/*
+*://*.enjoybooteshop.com/*
 *://*.enjoygarmentpro.com/*
 *://*.enjoyladyfad.com/*
 *://*.enjoyoutdooritem.com/*
@@ -7666,6 +7858,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.entornobanoeseur.shop/*
 *://*.entove.com/*
 *://*.entrancet.com/*
+*://*.entruempelung-meister.at/*
 *://*.entruempelungsexperten.at/*
 *://*.entrustjewelry.com/*
 *://*.entrypisode.com/*
@@ -7816,6 +8009,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.essentielonline.com/*
 *://*.essentielornaments.com/*
 *://*.essentielride.com/*
+*://*.essenundgenuss.com/*
 *://*.essgruppenprada.de/*
 *://*.esszimmerery.com/*
 *://*.establishapparel.com/*
@@ -7841,6 +8035,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.etcydecor.de/*
 *://*.eteachpro-portal.com/*
 *://*.etercitenal.com/*
+*://*.eternaesfera.com/*
 *://*.eternity.business/*
 *://*.eternitya.com/*
 *://*.ethbuyers.online/*
@@ -7974,6 +8169,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.evaluma.de/*
 *://*.evanaklea.com/*
 *://*.evane.store/*
+*://*.evanimo.com/*
 *://*.evannexde.shop/*
 *://*.evanoffmexico.com/*
 *://*.evans-online.de/*
@@ -8024,6 +8220,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.evitybag.com/*
 *://*.evnedev.shop/*
 *://*.evnedeve02.com/*
+*://*.evo-cleaner.de/*
 *://*.evo-house.com/*
 *://*.evolgrafix.de/*
 *://*.evostand.de/*
@@ -8073,6 +8270,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.exoticappearance.com/*
 *://*.exoticcatravels.com/*
 *://*.exotischereptilien.eu/*
+*://*.expedangebote.com/*
 *://*.expedia-reserve.com/*
 *://*.expedia.buzz/*
 *://*.expediabookinghub.com/*
@@ -8135,6 +8333,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ezbuyremedieshere24.com/*
 *://*.ezezbuy.com/*
 *://*.ezmarkets.io/*
+*://*.ezoom.top/*
 *://*.ezou.top/*
 *://*.ezsafeoil.com/*
 *://*.ezzykeys.com/*
@@ -8148,6 +8347,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.faberkarlbox.shop/*
 *://*.fabfindd.com/*
 *://*.fabianaspoletini.com/*
+*://*.fabianbernard.shop/*
 *://*.fabiennelefloch.com/*
 *://*.fabiennelystestaniere.com/*
 *://*.fabindix.com/*
@@ -8172,6 +8372,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.facepaintforeverybody.shop/*
 *://*.facepets.es/*
 *://*.faceshoppro.xyz/*
+*://*.facesock.eu/*
 *://*.facesoutlets.xyz/*
 *://*.facethefuturde.shop/*
 *://*.facetopshop.xyz/*
@@ -8207,7 +8408,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fahlenberg-kran.at/*
 *://*.fahnen-koessinger.shop/*
 *://*.fahrrad-discount24.de/*
+*://*.fahrrad-komponenten.com/*
 *://*.fahrrad-moltisanti.com/*
+*://*.fahrrad-sparwelt.de/*
 *://*.fahrrad-station24.de/*
 *://*.fahrrad-versand.com/*
 *://*.fahrradbulls.com/*
@@ -8215,6 +8418,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fahrradergeschaft.com/*
 *://*.fahrradersde.com/*
 *://*.fahrraderzukunft.com/*
+*://*.fahrradgeschaft-de.com/*
 *://*.fahrradhandel-ahrens.de/*
 *://*.fahrradhandel-behrendt.de/*
 *://*.fahrradhandel-berger.de/*
@@ -8228,8 +8432,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fahrradhandel-seidel.de/*
 *://*.fahrradhandel-wenzel.de/*
 *://*.fahrradhelden.com/*
+*://*.fahrradhelmeneu.com/*
 *://*.fahrradkassettede.com/*
+*://*.fahrradkleinteile.com/*
 *://*.fahrradladen-hoffmann.de/*
+*://*.fahrradladende.com/*
 *://*.fahrradmeierigm.com/*
 *://*.fahrradneu-de.com/*
 *://*.fahrradneuheiten.com/*
@@ -8247,6 +8454,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fahrradspeichernde.com/*
 *://*.fahrradstorm.com/*
 *://*.fahrradstromkreis.com/*
+*://*.fahrradteiledepot.com/*
 *://*.fahrradteileladen.com/*
 *://*.fahrradtrek.com/*
 *://*.fahrradundbike.de/*
@@ -8261,7 +8469,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fahrradzubehorschritte.com/*
 *://*.fahrradzubehorverkauf.com/*
 *://*.fahrschulagenten.de/*
+*://*.fahrspab.com/*
 *://*.fahrstadt.de/*
+*://*.fahrstander.com/*
 *://*.fahrzeugprada.de/*
 *://*.fahrzeugscanner24.de/*
 *://*.faikljp.com/*
@@ -8603,6 +8813,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fendrihande.shop/*
 *://*.fengdic.com/*
 *://*.fengyuanhanxi.top/*
+*://*.fenla-berlin.de/*
 *://*.fenna-mode.de/*
 *://*.fenna-muller.de/*
 *://*.fennafashion.de/*
@@ -8627,6 +8838,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fernandomayor.com/*
 *://*.fernbedienung-schalter.de/*
 *://*.ferne-schied.de/*
+*://*.fernwehcampingde.com/*
 *://*.ferplastdeutschland.shop/*
 *://*.ferplastverkaufe.com/*
 *://*.ferramentao.com/*
@@ -8707,6 +8919,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.figuely.com/*
 *://*.figulax.de/*
 *://*.figuredart.shop/*
+*://*.figurenverkauf.com/*
 *://*.figurinestoys.com/*
 *://*.filamniceent.com/*
 *://*.filamonia.de/*
@@ -8726,8 +8939,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.filmety.top/*
 *://*.filminihdizle.com/*
 *://*.filmmost.top/*
+*://*.filmrabatt.com/*
 *://*.filmstvz.com/*
 *://*.filmteam-nieheim.de/*
+*://*.filo-de.com/*
 *://*.filsonaustria.com/*
 *://*.filsondeutschland.com/*
 *://*.filsonosterreich.com/*
@@ -8749,6 +8964,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.finanzweggmbh.com/*
 *://*.finanzwelt.pro/*
 *://*.finapactglobal.net/*
+*://*.finarixisx.de/*
 *://*.finaxanlage.de/*
 *://*.finca-vermittlung.com/*
 *://*.fincaferien24.com/*
@@ -8913,9 +9129,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fitindentag.at/*
 *://*.fitiwelt.com/*
 *://*.fitkueche.de/*
+*://*.fitliebe.de/*
 *://*.fitness-7.de/*
 *://*.fitness-cruiser.com/*
 *://*.fitness-order.com/*
+*://*.fitness-outlet24.de/*
 *://*.fitness-shopsale.com/*
 *://*.fitness-solution24.com/*
 *://*.fitnessapotheke.nl/*
@@ -8924,6 +9142,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fitnessequipmentstore.store/*
 *://*.fitnessgymtools.com/*
 *://*.fitnessrb.com/*
+*://*.fitnessstilcom.com/*
 *://*.fitnestar.de/*
 *://*.fitouthometool.com/*
 *://*.fitoutusabroad.com/*
@@ -8942,6 +9161,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fivest.co/*
 *://*.fivland.com/*
 *://*.fix24h.at/*
+*://*.fixdapp.com/*
 *://*.fixedbladeknifesale.com/*
 *://*.fixedo.de/*
 *://*.fixnessenterprise.com/*
@@ -8976,6 +9196,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.flakaumo.com/*
 *://*.flamingo-de.com/*
 *://*.flammenfreude.com/*
+*://*.flammenkunst.shop/*
+*://*.flammenwerkde.com/*
 *://*.flanneltoss.com/*
 *://*.flash-light.at/*
 *://*.flash24tradefx.com/*
@@ -9045,6 +9267,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.floorprada.com/*
 *://*.floorstirred.com/*
 *://*.floorwalln.com/*
+*://*.flora-markt.com/*
 *://*.floraldressesshop.com/*
 *://*.floreskatrina.com/*
 *://*.florian-kofler.at/*
@@ -9109,6 +9332,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.foilballoons-shop.com/*
 *://*.foisge.com/*
 *://*.fokoomall.com/*
+*://*.foktu.shop/*
 *://*.foldcase.co/*
 *://*.foldersys.shop/*
 *://*.foldingboxesstore.com/*
@@ -9127,6 +9351,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fomshop.ml/*
 *://*.fondazionegaia.org/*
 *://*.fondexprofit.com/*
+*://*.fondinvestcapital.com/*
 *://*.fondluck.com/*
 *://*.fonneria.com/*
 *://*.fontis-shop.shop/*
@@ -9204,6 +9429,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fortest-car.com/*
 *://*.fortetradefx.live/*
 *://*.fortheakof.net/*
+*://*.fortisgeschaft.com/*
 *://*.fortohappy.com/*
 *://*.fortunakard.de/*
 *://*.fortunatecy.com/*
@@ -9213,6 +9439,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fortunefx.io/*
 *://*.forwneedane.com/*
 *://*.foshionstore.com/*
+*://*.fossilupra.com/*
 *://*.fosterrefrigerator.de/*
 *://*.foto-biering.de/*
 *://*.foto-koekeny.de/*
@@ -9244,6 +9471,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.foxracingdeals-eu.shop/*
 *://*.foxracinggeschaft.com/*
 *://*.foxrm.fr/*
+*://*.foxverkaufe.com/*
 *://*.fpctsc.com/*
 *://*.fpilahue.com/*
 *://*.fpjollet.com/*
@@ -9282,8 +9510,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.franziskawelpenhaus.com/*
 *://*.franzisko-dachdecker.de/*
 *://*.franzmorit.shop/*
+*://*.frastischeshop.com/*
 *://*.frau-geheimnisse.de/*
 *://*.frauchic.com/*
+*://*.frauenleinen.de/*
 *://*.frauke-nails.com/*
 *://*.fraukerodrian.com/*
 *://*.frax-global.com/*
@@ -9315,6 +9545,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.freevouchercode.org/*
 *://*.freexj.top/*
 *://*.freeyey.com/*
+*://*.frehit.com/*
 *://*.freienrabatt.com/*
 *://*.freietaube.de/*
 *://*.freietaube.shop/*
@@ -9360,6 +9591,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.frey-reifenversand.shop/*
 *://*.frgino.com/*
 *://*.friboo-prada.com/*
+*://*.fribooangebote.com/*
+*://*.fribooverkauf.com/*
 *://*.fribooverkauf.de/*
 *://*.fricence.top/*
 *://*.fricke-reifenversand.shop/*
@@ -9378,9 +9611,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.friluftsde.com/*
 *://*.friluftsguru.com/*
 *://*.frischdirekt.shop/*
+*://*.frischehaut.com/*
 *://*.frischundklar.de/*
 *://*.friseur-schuberts.de/*
 *://*.friseuradam.at/*
+*://*.fritzboxtech.shop/*
 *://*.fritzboxzone.de/*
 *://*.fritzo.shop/*
 *://*.fritzsche-autoreifen.com/*
@@ -9439,6 +9674,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.fulda-handel.de/*
 *://*.fullhousee.com/*
 *://*.fullswingfootwear.com/*
+*://*.fullzcash.com/*
 *://*.funccy.com/*
 *://*.functional-bike.com/*
 *://*.functoolslp.com/*
@@ -9582,6 +9818,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gabor-factory-outlet.com/*
 *://*.gabor-polska.com/*
 *://*.gabor-schuhe.at/*
+*://*.gabor-schweiz.com/*
 *://*.gabor-schweizs.com/*
 *://*.gabor-shoes-ireland.com/*
 *://*.gabor-shoes-nz.com/*
@@ -9611,6 +9848,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gaborfactoryoutlets.com/*
 *://*.gaborfactoryoutletuk.com/*
 *://*.gaborfactorysoutlets.com/*
+*://*.gaborfit.com/*
 *://*.gaborfootwearuk.com/*
 *://*.gaborfrance.com/*
 *://*.gaborfrance.fr/*
@@ -9635,6 +9873,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gabornz.com/*
 *://*.gabornzshoes.com/*
 *://*.gaboronlineportugal.com/*
+*://*.gaborosterreich.at/*
 *://*.gaborosterreich.com/*
 *://*.gaborout.com/*
 *://*.gaboroutlet-online.com/*
@@ -9789,10 +10028,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.garagveos-motosallmnn.shop/*
 *://*.garazicuesta.com/*
 *://*.garborine.com/*
+*://*.garden-caddy.de/*
 *://*.garden-machines-shop.com/*
 *://*.garden-machines.com/*
 *://*.garden-sell.com/*
 *://*.garden-toolsshop.com/*
+*://*.gardenagarten.com/*
 *://*.gardenasis.com/*
 *://*.gardenblis.com/*
 *://*.gardendecoratio.shop/*
@@ -9827,6 +10068,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.garten-frische.de/*
 *://*.garten-hagemann.com/*
 *://*.garten-heimwerken.com/*
+*://*.garten-outdoor.com/*
+*://*.garten-rasentraktor.com/*
 *://*.garten-see.de/*
 *://*.garten-welt.net/*
 *://*.garten-wohnwelt24.de/*
@@ -9835,6 +10078,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gartenbedarf-borken.de/*
 *://*.gartenbedarf-ehlers.de/*
 *://*.gartenbedarfbillig.com/*
+*://*.gartenbedarfs-de.com/*
 *://*.gartenbee.com/*
 *://*.gartenbeetzubehoer.com/*
 *://*.gartenbillig.com/*
@@ -9849,14 +10093,20 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gartenladende.com/*
 *://*.gartenlandschaftladen.com/*
 *://*.gartenly.shop/*
+*://*.gartenmaschinen24.de/*
 *://*.gartenmaschinenzubehor.com/*
 *://*.gartenmotorgerate.com/*
+*://*.gartenobstshop.com/*
+*://*.gartenova.com/*
 *://*.gartenpalast.net/*
+*://*.gartenpflanzende.com/*
 *://*.gartenpicks.de/*
 *://*.gartenplus24.com/*
+*://*.gartenquellede.com/*
 *://*.gartenrabatt.com/*
 *://*.gartenrasen.com/*
 *://*.gartensale.com/*
+*://*.gartensbillig.com/*
 *://*.gartenschranke.com/*
 *://*.gartensgeschaft.com/*
 *://*.gartenshop-marsmann.de/*
@@ -9864,6 +10114,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gartenstadl.de/*
 *://*.gartensupremos.com/*
 *://*.gartenteichenni.com/*
+*://*.gartentischede.com/*
 *://*.gartentor.shop/*
 *://*.gartentraktor.com/*
 *://*.gartenzauberwelt.shop/*
@@ -9939,6 +10190,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gedune24.store/*
 *://*.geekhosn.com/*
 *://*.geertvanharen.com/*
+*://*.geetahair.com/*
 *://*.geflowing.de/*
 *://*.gegoiw.com/*
 *://*.geheshop.com/*
@@ -10008,6 +10260,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.geodisgrp.com/*
 *://*.geofind-at.com/*
 *://*.geographz.com/*
+*://*.geometrichome.com/*
 *://*.geometrih.com/*
 *://*.geopro.app/*
 *://*.georgie.at/*
@@ -10046,6 +10299,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gerstea.com/*
 *://*.gertakura.shop/*
 *://*.gesamtgarten.de/*
+*://*.geschaftdrachen.com/*
+*://*.geschenkblumen.com/*
 *://*.geschenkfreudeeu.shop/*
 *://*.geschenkwand.de/*
 *://*.geschenkzone.at/*
@@ -10056,6 +10311,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gesicherterversand.com/*
 *://*.gesichtsreinigungnachtpflege.com/*
 *://*.gestuzclothing.com/*
+*://*.gesuender-im-leben.com/*
 *://*.gesund-wachsen.com/*
 *://*.gesund.world/*
 *://*.gesunde-lebensweise.com/*
@@ -10080,6 +10336,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.get-male-meds.net/*
 *://*.get-mens-meds.com/*
 *://*.get-rc.to/*
+*://*.get-teralin.site/*
 *://*.get-xdronehd.com/*
 *://*.get4u.eu/*
 *://*.getalliny.com/*
@@ -10101,6 +10358,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.getjewelrystore.com/*
 *://*.getjewelryus.com/*
 *://*.getkibblex.com/*
+*://*.getkidzly.de/*
 *://*.getlampspecial.com/*
 *://*.getlobuygreat.site/*
 *://*.getmaterialhandling.com/*
@@ -10199,6 +10457,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.giftwalldecor.com/*
 *://*.giftwarehome.com/*
 *://*.gigachains.com/*
+*://*.gigaly.at/*
 *://*.gigant-agencyjny.com/*
 *://*.gigawelt.com/*
 *://*.gigawelt.net/*
@@ -10265,6 +10524,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gladiolustox.com/*
 *://*.gladishardy.com/*
 *://*.glam-bay.de/*
+*://*.glam-gadgets.de/*
 *://*.glamantibeauty.com/*
 *://*.glamgarbshop.com/*
 *://*.glamgoamazing.com/*
@@ -10285,6 +10545,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.glassesify.com/*
 *://*.glassesneon.com/*
 *://*.glassry.top/*
+*://*.glaswarenrabatt.com/*
 *://*.glaydssale.shop/*
 *://*.gleaminggazette.shop/*
 *://*.gleamoramunchen.de/*
@@ -10330,13 +10591,16 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gloiber.com/*
 *://*.glonal.shop/*
 *://*.gloobodiscount.com/*
+*://*.gloreve.com/*
 *://*.gloriousy.com/*
 *://*.glorista.de/*
 *://*.gloryfeel.shop/*
 *://*.glosser.shop/*
+*://*.glossise.com/*
 *://*.glounu.com/*
 *://*.glovercat.space/*
 *://*.glow-haven.de/*
+*://*.glowblend.de/*
 *://*.glowency.de/*
 *://*.glowhaven.shop/*
 *://*.glowingpokeballs.com/*
@@ -10443,6 +10707,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.goldreward.io/*
 *://*.goldscheideanstalt-2023.com/*
 *://*.goldscheideanstalt-testsieger-shop.de/*
+*://*.goldschmiede-alpenglanz.at/*
 *://*.goldsicher.net/*
 *://*.goldstollen.de/*
 *://*.goldwayno.com/*
@@ -10497,6 +10762,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.goodjobfull.com/*
 *://*.goodlike.de/*
 *://*.goodlzflow.life/*
+*://*.goodmecar.click/*
 *://*.goodmedsshops.com/*
 *://*.goodonlytools.com/*
 *://*.goodoutfitcheap.com/*
@@ -10519,6 +10785,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.goodsvogue.com/*
 *://*.goodsvoguenew.com/*
 *://*.goodtall.live/*
+*://*.goodthingsstore.shop/*
 *://*.googlemaxmovie.com/*
 *://*.googleseriess.com/*
 *://*.goohu.de/*
@@ -10582,6 +10849,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.graciostyus.com/*
 *://*.graciousk.com/*
 *://*.gradine.top/*
+*://*.graefde.com/*
 *://*.grafosignsv.com/*
 *://*.granadabelekhotel.com/*
 *://*.grandformca.com/*
@@ -10674,17 +10942,21 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.grill-welten.com/*
 *://*.grillausrustung.com/*
 *://*.grillcenterowl.de/*
+*://*.grillenrabatt.com/*
 *://*.grillfuerstde.com/*
 *://*.grillfuerstshop.com/*
 *://*.grillmatte.at/*
 *://*.grillmeisterde.com/*
+*://*.grillprofishop.com/*
 *://*.grillprove.top/*
+*://*.grillsgeschaft.com/*
 *://*.grillspro.shop/*
 *://*.grillsrabatt.com/*
 *://*.grillssoon.de/*
 *://*.grillwiese.shop/*
 *://*.grillwwiese.de/*
 *://*.grillzentrale.shop/*
+*://*.grillzubehoer-de.com/*
 *://*.grimhat.com/*
 *://*.grinsebuch.de/*
 *://*.gripgrabarea.com/*
@@ -10700,6 +10972,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.groceryandhome.com/*
 *://*.groceryshopcheap.com/*
 *://*.grocezo.com/*
+*://*.groffa.shop/*
 *://*.groierconsulting.at/*
 *://*.gromando.com/*
 *://*.groomedstylewear.com/*
@@ -10742,6 +11015,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.growetic.top/*
 *://*.growingcat.com/*
 *://*.growit-indoor.com/*
+*://*.growminds.de/*
 *://*.growthfundx.com/*
 *://*.grraciously.com/*
 *://*.grscaletrust.com/*
@@ -10764,6 +11038,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.grunekraft.shop/*
 *://*.grunekraft.store/*
 *://*.grunetulpe.com/*
+*://*.grunevielfalt.com/*
 *://*.grunovo.com/*
 *://*.grunsamen.de/*
 *://*.gruntmuzicz.com/*
@@ -10834,6 +11109,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.guitartrendy.com/*
 *://*.gul-store.com/*
 *://*.gulposhn.com/*
+*://*.gummikoder.com/*
 *://*.gummirando.com/*
 *://*.gummistiefelhunter.de/*
 *://*.gumsfirer.store/*
@@ -10854,6 +11130,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gutehauswelpen.com/*
 *://*.gutenberg-mode.de/*
 *://*.guteradfahrer.com/*
+*://*.guterloft.com/*
 *://*.gutes-brennholz.com/*
 *://*.guteseben.de/*
 *://*.gutgarten.com/*
@@ -10871,10 +11148,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gylde.de/*
 *://*.gym-beast.de/*
 *://*.gym-shark-osterreich.com/*
+*://*.gymgear24.de/*
 *://*.gymnasiumk.com/*
 *://*.gymnastik-schuhe.de/*
 *://*.gymonefit.com/*
 *://*.gymshark-austria.com/*
+*://*.gymshark-online-eu.shop/*
 *://*.gymshark-osterreich.at/*
 *://*.gymshark-osterreich.com/*
 *://*.gymshark-vip.shop/*
@@ -10894,6 +11173,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.gymvot.com/*
 *://*.gyopar.net/*
 *://*.gzbiaogan.com/*
+*://*.h-landtechnik.com/*
 *://*.h-ware.club/*
 *://*.haag-reifenversand.shop/*
 *://*.haajisb.com/*
@@ -10915,6 +11195,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hackettaustria.at/*
 *://*.hackettlondonde.com/*
 *://*.hackettoutlets.com/*
+*://*.hackmann-heizoel.de/*
 *://*.hadadypoor.com/*
 *://*.haden.at/*
 *://*.hadorn.shop/*
@@ -10968,6 +11249,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.halloween-maskenmanufaktur.de/*
 *://*.halloweenhotsale.com/*
 *://*.halloweenkarneval.com/*
+*://*.halloweenmakeup-de.com/*
 *://*.halloweenpartydiscount.com/*
 *://*.halloweenpetticoats.com/*
 *://*.halloweenpopculture.com/*
@@ -10975,6 +11257,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.halloweensneu.com/*
 *://*.halloweenspielen.com/*
 *://*.halloweenwelt-manufaktur.de/*
+*://*.halloweenwelt.com/*
 *://*.halluxfit.de/*
 *://*.hallwaychair-shop.com/*
 *://*.halon.at/*
@@ -10994,6 +11277,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.handbagdbonlinevip.com/*
 *://*.handball-fanshop.com/*
 *://*.handballtrikotshop.com/*
+*://*.handbrausensale.com/*
 *://*.handbrausenshop.com/*
 *://*.handel-kirsch.de/*
 *://*.handel-swiss.com/*
@@ -11106,6 +11390,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.harlankids.xyz/*
 *://*.harlekinhop.shop/*
 *://*.harleydavidsonoutlets.shop/*
+*://*.harleydavidsons.at/*
 *://*.harleysaleoutlets.com/*
 *://*.harmanli-elektronik.shop/*
 *://*.harmanli-gmbh.store/*
@@ -11117,6 +11402,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.harpercollins.shop/*
 *://*.harpinaj.com/*
 *://*.harriods.com/*
+*://*.harriserverkaufe.com/*
 *://*.harrystammholz.com/*
 *://*.harshoping.com/*
 *://*.hartfordverkaufe.com/*
@@ -11129,7 +11415,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hasahasak.com/*
 *://*.hasanutar.com/*
 *://*.hasbro-marketing.com/*
+*://*.hasbrofanwelt.com/*
 *://*.hasegawamodel.com/*
+*://*.hashx-capital.com/*
 *://*.haskellsandreddy.com/*
 *://*.haskoni.de/*
 *://*.hasznaltnotebook.com/*
@@ -11174,6 +11462,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hausromantica.at/*
 *://*.haustechnik-muenchen.de/*
 *://*.haustechnikmeine.de/*
+*://*.haustier-de.com/*
 *://*.haustierbedarfshop.com/*
 *://*.haustiereshop.com/*
 *://*.haustierstolz.de/*
@@ -11191,6 +11480,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.haventrend.com/*
 *://*.haventrendy.com/*
 *://*.havoveranm.com/*
+*://*.havro.de/*
 *://*.havsbris.com/*
 *://*.hawaiiflowerfarm.com/*
 *://*.hawaiird.com/*
@@ -11214,6 +11504,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hcslimburg.de/*
 *://*.hd-shisha-shop.shop/*
 *://*.hdbgesky.com/*
+*://*.hdfmilbratbrennholz.de/*
+*://*.hdofenhaus.com/*
 *://*.hdsshop.top/*
 *://*.hdtvcar.com/*
 *://*.hdvguenther.de/*
@@ -11289,6 +11581,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heilchannel.de/*
 *://*.heilerin-inge.de/*
 *://*.heilkunst-hp.de/*
+*://*.heim-geschafts.com/*
 *://*.heim-tools.de/*
 *://*.heim-tools.net/*
 *://*.heimat-haft.de/*
@@ -11305,8 +11598,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heimjob-vermittlung.de/*
 *://*.heimkinovertrieb.de/*
 *://*.heimkuchenwaren.com/*
+*://*.heimmehr.de/*
+*://*.heimspeichern.com/*
 *://*.heimundgartenmarkt.de/*
+*://*.heimvibe.com/*
 *://*.heimwerk-meister.de/*
+*://*.heimwerkende.de/*
+*://*.heimwerkerhelden.com/*
+*://*.heimwerkzeugesde.com/*
 *://*.heimwerkzeugladen.com/*
 *://*.heine-reifen.com/*
 *://*.heinkelmasch.de/*
@@ -11328,9 +11627,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heizhaus-kohle.de/*
 *://*.heizino.de/*
 *://*.heizkessel-sale.com/*
+*://*.heizkesselstore.com/*
+*://*.heizline.at/*
 *://*.heizoel-24.com/*
 *://*.heizoel-24.eu/*
 *://*.heizoel-austria.com/*
+*://*.heizoel-best.de/*
 *://*.heizoel-check.de/*
 *://*.heizoel-direktkauf.com/*
 *://*.heizoel-easy.com/*
@@ -11344,8 +11646,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heizoel-profi.com/*
 *://*.heizoel-standard.de/*
 *://*.heizoel-station.com/*
+*://*.heizoel-zentrale.de/*
 *://*.heizoeldirekt.com/*
+*://*.heizoelhanse.com/*
 *://*.heizoelix.de/*
+*://*.heizoelnord.com/*
 *://*.heizoelservice-bp.de/*
 *://*.heizoelsolutions.com/*
 *://*.heizoelwerk24.com/*
@@ -11354,6 +11659,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heizoil24.de/*
 *://*.heizolwerk-24.com/*
 *://*.heizomi.de/*
+*://*.heizora.de/*
 *://*.heizpro.com/*
 *://*.heizstrahlerprada.de/*
 *://*.heiztechnik-kundendienst.at/*
@@ -11361,6 +11667,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heizung-deutschland.org/*
 *://*.heizungfachhandel.com/*
 *://*.heizungselement.com/*
+*://*.heizungselementshop.com/*
 *://*.heizungsinsel.de/*
 *://*.heizungstechnik-online.de/*
 *://*.heizzu.de/*
@@ -11381,6 +11688,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heliohouse.shop/*
 *://*.helium-miners-uk.com/*
 *://*.helix-sports.de/*
+*://*.helladeau.shop/*
 *://*.helle-klevens.shop/*
 *://*.hellermodus.com/*
 *://*.hellertag.de/*
@@ -11443,6 +11751,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.herdog.de/*
 *://*.herdzentrum.com/*
 *://*.hereascend.com/*
+*://*.herenschuhebillig.com/*
 *://*.hereusale.shop/*
 *://*.herlingerieshop.com/*
 *://*.hermann-handel.de/*
@@ -11461,6 +11770,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.herren-pillen.de/*
 *://*.herren-shop.com/*
 *://*.herrenmode-pietro.com/*
+*://*.herrenmodeschuhe.com/*
+*://*.herrenmodestore.com/*
 *://*.herrenpillen.net/*
 *://*.herrentops.de/*
 *://*.herreraaale.com/*
@@ -11498,6 +11809,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.heydudeschuhereduziert.com/*
 *://*.heydudeschuheschweiz.com/*
 *://*.heyewall.de/*
+*://*.heyi-handel.de/*
 *://*.heyjune.shop/*
 *://*.heyseeodyssey.com/*
 *://*.hfashionshop.com/*
@@ -11519,6 +11831,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hiddenacorn.shop/*
 *://*.hiddenhertz.com/*
 *://*.hidewintershoesuk.com/*
+*://*.hidra-pool.com/*
 *://*.hierarchyi.com/*
 *://*.hierarchyk.com/*
 *://*.hig-finance.com/*
@@ -11574,12 +11887,15 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hinrichs-reifenhandel.com/*
 *://*.hinrichs-reifenversand.shop/*
 *://*.hinterman.de/*
+*://*.hinz-gartenhandel.de/*
 *://*.hipcraftsupply.com/*
 *://*.hippouchsales.com/*
 *://*.hiremyparents.com/*
 *://*.hirequestxpert-at.com/*
 *://*.hirsch-express.com/*
+*://*.hirsefeltshop.com/*
 *://*.hisensepower.shop/*
+*://*.hispanitasdeutschland.de/*
 *://*.historischesbauen.de/*
 *://*.hitchoaral.com/*
 *://*.hitecschuhe.com/*
@@ -11640,6 +11956,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hobbysoftball.com/*
 *://*.hobbywatch.store/*
 *://*.hobebaodan.shop/*
+*://*.hobibear.de/*
 *://*.hochbeckenleitern.com/*
 *://*.hochbeeteonlinestore.com/*
 *://*.hochgothe.de/*
@@ -11716,6 +12033,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.holidaypartner.co/*
 *://*.holidayvilla-canaryislands.com/*
 *://*.holiesy.com/*
+*://*.hollister-co.at/*
 *://*.hollisteronline-shop.at/*
 *://*.hollistershopsk.sk/*
 *://*.hollylollies.com/*
@@ -11729,14 +12047,17 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.holz-sales.com/*
 *://*.holz-waldes-holz.com/*
 *://*.holzafen.com/*
+*://*.holzarena.com/*
 *://*.holzarteiche.de/*
 *://*.holzbau-hunger.de/*
 *://*.holzbaubillig.com/*
 *://*.holzcuten.de/*
+*://*.holzd24.com/*
 *://*.holzdeals24.com/*
 *://*.holzelite.de/*
 *://*.holzerneblocke.com/*
 *://*.holzflicken.at/*
+*://*.holzhandelhensel.com/*
 *://*.holzlagermarket.com/*
 *://*.holzliefer.xyz/*
 *://*.holzlind.com/*
@@ -11752,6 +12073,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.holzwaldenergie.com/*
 *://*.holzwarmer.com/*
 *://*.holzwerkzeugekaufen.com/*
+*://*.homado.de/*
 *://*.homaletic.top/*
 *://*.home-aytm.com/*
 *://*.home-coast.com/*
@@ -11801,6 +12123,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.homegoodstotal.com/*
 *://*.homehillsdale.com/*
 *://*.homehinkleylighting.com/*
+*://*.homehulsta.com/*
 *://*.homeimprovementtool.com/*
 *://*.homeinlay.com/*
 *://*.homeinvasion.de/*
@@ -11927,6 +12250,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.hoptrendely.com/*
 *://*.horaz.at/*
 *://*.hordstrom.site/*
+*://*.horencia.com/*
 *://*.horizonconfort.shop/*
 *://*.horizonhobbyeu.com/*
 *://*.horizonread.com/*
@@ -11947,6 +12271,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.horsts.shop/*
 *://*.horstseefeld.de/*
 *://*.horstz.shop/*
+*://*.hortensies.com/*
 *://*.hortihaven.net/*
 *://*.horzesshop.top/*
 *://*.hosalet.com/*
@@ -12047,6 +12372,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.houseofcbdeutschland.com/*
 *://*.houseofcbdeutschland.de/*
 *://*.houseofnordberg.com/*
+*://*.houseofpinballs.com/*
 *://*.housepet.top/*
 *://*.housepicsct.com/*
 *://*.housesarreid.com/*
@@ -12155,14 +12481,17 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.humule.xyz/*
 *://*.hundaidirectinsu.xyz/*
 *://*.hundekka-de.com/*
+*://*.hundeladende.com/*
 *://*.hundeliebling.at/*
 *://*.hundeliebling.com/*
 *://*.hundemuseum.at/*
 *://*.hundessen.com/*
 *://*.hundetrainingkragen.com/*
+*://*.hundeweltde.com/*
 *://*.hundezentrum-emsland.de/*
 *://*.hundmonline.at/*
 *://*.hundredis.com/*
+*://*.hundtrockenfutter.com/*
 *://*.hundvonedenstore.shop/*
 *://*.hundvonedenstoreava.shop/*
 *://*.hunius.top/*
@@ -12198,6 +12527,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.huntersstiefel.com/*
 *://*.hunterstiefel.at/*
 *://*.hunterwien.com/*
+*://*.hunting-online-shop.com/*
 *://*.huntingfishingsale.com/*
 *://*.huntingmasterstore.com/*
 *://*.hunzagwien.at/*
@@ -12311,6 +12641,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.icmarkethub.com/*
 *://*.icoderteam.shop/*
 *://*.icon-amsterdam.com/*
+*://*.iconiclndn.com/*
 *://*.iconicnetwork.de/*
 *://*.iconmobel.com/*
 *://*.iconmobel.de/*
@@ -12341,6 +12672,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.idealow.net/*
 *://*.idealow.top/*
 *://*.idealspiele.com/*
+*://*.idealstandardbad.com/*
 *://*.idealtodemon.com/*
 *://*.identicaled.com/*
 *://*.idetifcaton.com/*
@@ -12562,6 +12894,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.inlinegate.shop/*
 *://*.inlinexde.shop/*
 *://*.inmode.at/*
+*://*.innentapete.com/*
 *://*.innerbailey.com/*
 *://*.innerekraft.at/*
 *://*.innet24.de/*
@@ -12617,6 +12950,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.installateur-notdienst-vienna.at/*
 *://*.installateur-notdienst24.at/*
 *://*.installateur-nothilfe.at/*
+*://*.installateur-platz1.at/*
 *://*.installateur-profis24.at/*
 *://*.installateur-top.at/*
 *://*.installateurzentrale.at/*
@@ -12641,6 +12975,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.insurelively.net/*
 *://*.inteensi.com/*
 *://*.integbeautycare.com/*
+*://*.integisok.com/*
 *://*.integralz.com/*
 *://*.integratef.com/*
 *://*.integritybotanicade.shop/*
@@ -12666,6 +13001,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.interiorlightingshop.com/*
 *://*.interiorofficial.com/*
 *://*.intermediatee.net/*
+*://*.interpellet.at/*
 *://*.intersport-eu.com/*
 *://*.interstatesavings.us/*
 *://*.intervalk.net/*
@@ -12876,6 +13212,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.izalewis.com/*
 *://*.izecarts.com/*
 *://*.iziholz.de/*
+*://*.izxinet.com/*
 *://*.j-bull.com/*
 *://*.j-store-online.shop/*
 *://*.jaanakontio.com/*
@@ -12963,6 +13300,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.jbstspb.shop/*
 *://*.jcamaravelles.com/*
 *://*.jcbtoolsoff.com/*
+*://*.jclaysocken.com/*
 *://*.jcounzela.com/*
 *://*.jcpenneyinusa.net/*
 *://*.jdfimportexportgmbh.de/*
@@ -13094,6 +13432,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.joazim.com/*
 *://*.job-box.at/*
 *://*.jobchange.at/*
+*://*.jobdreamonline.com/*
 *://*.jobflow.careers/*
 *://*.jobpdfbookt.com/*
 *://*.jobschmiede.com/*
@@ -13228,6 +13567,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.jtssr.com/*
 *://*.jtylercooley.com/*
 *://*.ju-nks.de/*
+*://*.jubilantdeals.com/*
 *://*.judithclothing.shop/*
 *://*.judithmall.shop/*
 *://*.juengling-karcher.de/*
@@ -13258,6 +13598,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.junaberlin.de/*
 *://*.junctionh.com/*
 *://*.jundongshop.com/*
+*://*.junge-dailyshop.com/*
 *://*.junginger-versandhaus.de/*
 *://*.jungle-shoes.com/*
 *://*.jungleim.com/*
@@ -13268,6 +13609,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.junkersthermenwartung.at/*
 *://*.junko.at/*
 *://*.junzipvalley.com/*
+*://*.jupiter-web3.com/*
 *://*.juport.at/*
 *://*.jur-werbung.de/*
 *://*.juraster.top/*
@@ -13327,12 +13669,15 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kaermodz.com/*
 *://*.kaernten-bewegt.at/*
 *://*.kaetments.com/*
+*://*.kaffee-de.com/*
 *://*.kaffee-eldorado.com/*
+*://*.kaffee-glueck.de/*
 *://*.kaffee-held24.de/*
 *://*.kaffee-love.de/*
 *://*.kaffee-paradies.net/*
 *://*.kaffee-teeshopde.com/*
 *://*.kaffeeangebote.com/*
+*://*.kaffeemaschinebillig.com/*
 *://*.kaffeesnackbar.com/*
 *://*.kaffeewelt.store/*
 *://*.kaffefashion.com/*
@@ -13344,6 +13689,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kahraporcelainshop.com/*
 *://*.kaijianga.com/*
 *://*.kaikaiogilvy.com/*
+*://*.kaimoro.de/*
 *://*.kaioland.com/*
 *://*.kairosglobalmarketing.de/*
 *://*.kaizengulf.com/*
@@ -13384,6 +13730,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kaminholzgmbh.com/*
 *://*.kaminholzholzofen.de/*
 *://*.kaminj.top/*
+*://*.kaminoland.de/*
 *://*.kamlily.com/*
 *://*.kammerjaeger-notruf.at/*
 *://*.kammerjaeger24h.at/*
@@ -13402,6 +13749,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kanistyleshop.com/*
 *://*.kaniteo.com/*
 *://*.kankenbageu.com/*
+*://*.kantescharf.com/*
 *://*.kantonalfinanz.net/*
 *://*.kantonvest.com/*
 *://*.kanu-meppen.de/*
@@ -13409,6 +13757,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kanvada.com/*
 *://*.kanziii.net/*
 *://*.kanzlei-dahlmanns-witten.de/*
+*://*.kanzlei-guehmann.de/*
 *://*.kanzleiklaus.de/*
 *://*.kaodasuan.shop/*
 *://*.kaperes.com/*
@@ -13423,6 +13772,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kara-sport.de/*
 *://*.karabagh.at/*
 *://*.karaffen-onstore.com/*
+*://*.karaffenkruegede.com/*
 *://*.karamelstudio.com/*
 *://*.karapmisto.com/*
 *://*.karate-innsbruck.at/*
@@ -13522,6 +13872,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kaufmannshop.de/*
 *://*.kaufschnaeppchen24.de/*
 *://*.kaufsnow.de/*
+*://*.kaufstreetwear.com/*
+*://*.kauftruhe.com/*
 *://*.kaufyshop.de/*
 *://*.kaugeliefgert.com/*
 *://*.kaukokiito.top/*
@@ -13531,6 +13883,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kavri.de/*
 *://*.kawaiiroleplay.com/*
 *://*.kaybrownsey.com/*
+*://*.kayi-handel.de/*
 *://*.kaykaorg.com/*
 *://*.kayklingbeil.de/*
 *://*.kaylandverkaufe.com/*
@@ -13539,6 +13892,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kazaarfragrancesde.shop/*
 *://*.kbattian.shop/*
 *://*.kbavliv.com/*
+*://*.kbhome.cl/*
 *://*.kbnlogistics.com/*
 *://*.kbs-kanzlei.de/*
 *://*.kbuildex.com/*
@@ -13567,6 +13921,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.keen-ireland.com/*
 *://*.keen-osterreich.com/*
 *://*.keen-sandalen.at/*
+*://*.keen-schuhe.com/*
 *://*.keendeutsch.com/*
 *://*.keendeutsch.de/*
 *://*.keendeutschland.de/*
@@ -13622,6 +13977,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.keppey.com/*
 *://*.kern-reifenversand.shop/*
 *://*.kernekom.com/*
+*://*.kernvogel.com/*
 *://*.kerstern.com/*
 *://*.kerstinczud.com/*
 *://*.kertioa.com/*
@@ -13629,12 +13985,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kerzenofficial.com/*
 *://*.kesselschlacht-erfurt.com/*
 *://*.kessl-teufel.at/*
+*://*.kestintobiaswelpen.de/*
 *://*.ketousesh.com/*
 *://*.ketoxmed-liquid.de/*
 *://*.ketoxplode.at/*
 *://*.ketoxplodekaufen.com/*
 *://*.kettenkonzept.de/*
 *://*.kettensage.de/*
+*://*.ketteverkauf.com/*
 *://*.kettleshop.cz/*
 *://*.kevindurantshoes.net/*
 *://*.kevtt.com/*
@@ -13644,6 +14002,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.keyblissboutique.com/*
 *://*.keyboardpopular.com/*
 *://*.keycaps-vibe.com/*
+*://*.keyom.de/*
 *://*.kezono.com/*
 *://*.kfactem.com/*
 *://*.kflandshed.shop/*
@@ -13663,6 +14022,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.khantherapie.de/*
 *://*.khawein.com/*
 *://*.khaymall.top/*
+*://*.khujoangebote.com/*
 *://*.kiabrand.com/*
 *://*.kiaranews.com/*
 *://*.kickarea.cn/*
@@ -13733,6 +14093,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kinderkumpel.de/*
 *://*.kindermobelre.com/*
 *://*.kindersachenmitwachsend.com/*
+*://*.kinderspielzeugangebote.com/*
 *://*.kindertische.com/*
 *://*.kinderverkehrswelt.de/*
 *://*.kinderwagenonlinestore.com/*
@@ -13787,6 +14148,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kirsch-autoreifen.com/*
 *://*.kisarazu-happy2.com/*
 *://*.kisotonen.com/*
+*://*.kissanana.com/*
+*://*.kissen-sales.com/*
 *://*.kissingyabeauty.com/*
 *://*.kissinspire.com/*
 *://*.kita-much.de/*
@@ -13863,12 +14226,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.klang-plan.de/*
 *://*.klangplan.net/*
 *://*.klangvoll-events.at/*
+*://*.klar-haus.de/*
 *://*.klarako.com/*
 *://*.klaria.de/*
 *://*.klarmannyc.com/*
 *://*.klarnest.de/*
 *://*.klarsonne.de/*
 *://*.klarsteinhaushaltspar.com/*
+*://*.klarsteinkuche.com/*
 *://*.klarvi.de/*
 *://*.klassfx.com/*
 *://*.klassischesfahrradneu.com/*
@@ -13882,12 +14247,16 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kleiderleipzighaus.de/*
 *://*.kleidermafia.shop/*
 *://*.kleiderweltboutique.com/*
+*://*.kleidung-prada.com/*
+*://*.kleidungfrilufts.com/*
 *://*.kleidungliebe.de/*
 *://*.kleidungsmarkt.com/*
 *://*.kleidungssetneu.com/*
 *://*.kleincodiert.at/*
 *://*.kleine-freundin.com/*
 *://*.kleinefunken.de/*
+*://*.kleinegeraetekuechen.com/*
+*://*.kleinegeschende.com/*
 *://*.kleineradtouren.de/*
 *://*.kleinesengelparadies.com/*
 *://*.kleinezeitung.co/*
@@ -13896,6 +14265,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kleinwien.at/*
 *://*.klemars.de/*
 *://*.kletternalpinismus.de/*
+*://*.kleversholz.com/*
 *://*.klgm-eiche.de/*
 *://*.klhooq.com/*
 *://*.klick-ndb.de/*
@@ -14034,6 +14404,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kolua.de/*
 *://*.komarise.com/*
 *://*.komarniskiw.shop/*
+*://*.komemo-handel.de/*
 *://*.komforteinrichter.de/*
 *://*.komono-uk.com/*
 *://*.kompens.de/*
@@ -14067,6 +14438,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kosmetik-kreis.de/*
 *://*.kosmetik-merzig.de/*
 *://*.kosticfranzosischebulldoggen.com/*
+*://*.kostuemfest.com/*
 *://*.kostuemp.de/*
 *://*.kostummode.com/*
 *://*.kostumparty.com/*
@@ -14098,9 +14470,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kraus-autoreifen.shop/*
 *://*.krausmode.de/*
 *://*.kraussmedien.de/*
+*://*.krauternobst.com/*
 *://*.krayadravyad.shop/*
 *://*.krazestore.com/*
 *://*.krazione.com/*
+*://*.kreative-zukunft.com/*
 *://*.kreativtravel.de/*
 *://*.krebber-juwelier.shop/*
 *://*.krebss.de/*
@@ -14134,6 +14508,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.krueger-dirndl-outlet.shop/*
 *://*.krueger-dirndleu.shop/*
 *://*.kruegertracht.de/*
+*://*.kruegertrachten.de/*
 *://*.krug-reifenhandel.com/*
 *://*.kruger-design.de/*
 *://*.kruger-mode.de/*
@@ -14167,9 +14542,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ktristandy.com/*
 *://*.kuch-gala24.de/*
 *://*.kuchegastroeqpt.com/*
+*://*.kuchenerkaufe.com/*
 *://*.kuchengrill.com/*
+*://*.kuchenhaushaltrabatt.com/*
 *://*.kucheninseln.de/*
 *://*.kuchenprodukteprada.com/*
+*://*.kuchentellersaleshop.com/*
 *://*.kucheshop.com/*
 *://*.kuchestaubverkauf.com/*
 *://*.kuchukov-house.com/*
@@ -14180,6 +14558,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kuechen-point24.com/*
 *://*.kuechenblume.net/*
 *://*.kuechesale.com/*
+*://*.kuethe-partner.com/*
 *://*.kufirms.com/*
 *://*.kugel-lernfoerderung.de/*
 *://*.kugelbahnshop.at/*
@@ -14210,6 +14589,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.kupendj.top/*
 *://*.kurbelnstore.com/*
 *://*.kureto.top/*
+*://*.kurtgeiger-eu.shop/*
 *://*.kurtgeigerosterreich.com/*
 *://*.kurtkleindienst.com/*
 *://*.kurvea.com/*
@@ -14252,6 +14632,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.laandingblog.com/*
 *://*.laasin.com/*
 *://*.laboitenomade.de/*
+*://*.laborbedarfkaufen.com/*
 *://*.laborkampgne.shop/*
 *://*.laboussoleverte.com/*
 *://*.labq22.in/*
@@ -14329,6 +14710,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lampafford.com/*
 *://*.lampenbillig.com/*
 *://*.lampeplus.de/*
+*://*.lampespromo.com/*
 *://*.lampframburg.com/*
 *://*.lamphudsoncanal.com/*
 *://*.lamply.at/*
@@ -14426,6 +14808,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lasportivaotdeur.top/*
 *://*.lasportivaoutdoor.com/*
 *://*.lasportivaoutlet.club/*
+*://*.lasportivas.de/*
 *://*.lasportivaservice.com/*
 *://*.lasportivasit.top/*
 *://*.lasportivast.com/*
@@ -14539,6 +14922,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ldondada.top/*
 *://*.ldrmjepbi.shop/*
 *://*.le-cartier.com/*
+*://*.le-labo.at/*
 *://*.leaderedgy.com/*
 *://*.leadershipk.com/*
 *://*.leadwilderness.com/*
@@ -14567,6 +14951,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.leboulove.com/*
 *://*.lecdon.de/*
 *://*.lechner-reifenhandel.shop/*
+*://*.lechuzpflanz.com/*
 *://*.leckerwurzede.com/*
 *://*.leclercqbruno.com/*
 *://*.lecohealth.com/*
@@ -14576,6 +14961,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.led-bricks.de/*
 *://*.led-einbauleuchten.com/*
 *://*.ledcars.at/*
+*://*.ledeinbauleuchten.com/*
 *://*.leder-hermann.com/*
 *://*.lederhermann.com/*
 *://*.lederjackensales.com/*
@@ -14586,6 +14972,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ledlightde.com/*
 *://*.ledoy-tech.de/*
 *://*.ledrohren.com/*
+*://*.ledvanceleuchten.com/*
 *://*.ledyoury.com/*
 *://*.leefbnemall.shop/*
 *://*.leefly.nl/*
@@ -14593,8 +14980,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.leezy-berlin.de/*
 *://*.legalcrypptoearningfx.com/*
 *://*.legalhighlabs.com/*
+*://*.legalnitsche.de/*
 *://*.legasthenie-ms.de/*
 *://*.legero-de.com/*
+*://*.legero-hu.net/*
 *://*.legerobelgie.com/*
 *://*.legerobelgium.com/*
 *://*.legerobulgaria.com/*
@@ -14633,6 +15022,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.leguanoschuhe.at/*
 *://*.lehmannhannover.de/*
 *://*.lehmannmode.de/*
+*://*.lehnert-versand.de/*
 *://*.leicht-erhitzen.com/*
 *://*.leichtig-keit.de/*
 *://*.leikauf-training.de/*
@@ -14727,6 +15117,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.letsgoshop.de/*
 *://*.lettireti.com/*
 *://*.lettucedoctor.com/*
+*://*.leuchtenheim.com/*
 *://*.leuchtenmart.com/*
 *://*.leuchtensalesstore.com/*
 *://*.leuchtenver.com/*
@@ -14756,6 +15147,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lexingtonplus.com/*
 *://*.leylscloset.com/*
 *://*.leyna-moda.de/*
+*://*.leyna.store/*
 *://*.leynas-kleider.de/*
 *://*.lezido.de/*
 *://*.lfaconsult.biz/*
@@ -14814,8 +15206,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.liebelibelle.de/*
 *://*.liebes-decke.de/*
 *://*.liebesflockenn.de/*
+*://*.liebeskind--berlin.com/*
 *://*.liebeskindberlinblog.com/*
 *://*.liebeskleidung.de/*
+*://*.liebeverpackt.com/*
 *://*.liebl-wallner.de/*
 *://*.lieblingsladen.co/*
 *://*.lieblingsmarket.com/*
@@ -15125,6 +15519,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.logisticteamgmbh.com/*
 *://*.logistik-knw.com/*
 *://*.logistikshippers.com/*
+*://*.logitechoutlet-eu.shop/*
 *://*.logixwood.com/*
 *://*.logtgg.com/*
 *://*.logvoyage.com/*
@@ -15270,6 +15665,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lovetogobook.site/*
 *://*.lovetokkbook.site/*
 *://*.lovetray.xyz/*
+*://*.lovetruar.click/*
 *://*.lovetryshop.site/*
 *://*.lovewood.at/*
 *://*.lovezhuvs.click/*
@@ -15285,6 +15681,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lowa-osterreich.at/*
 *://*.lowa-osterreich.com/*
 *://*.lowa-schuhe.net/*
+*://*.lowa-wanderschuhe.com/*
 *://*.lowabootseu.com/*
 *://*.lowadeutschland.de/*
 *://*.lowadeutschlandoutlet.de/*
@@ -15321,6 +15718,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lpiralpha.com/*
 *://*.lplabera.shop/*
 *://*.lprhomes.com/*
+*://*.lpservhub.com/*
 *://*.lpteel.com/*
 *://*.lqvixaeh.shop/*
 *://*.lrbzl.com/*
@@ -15451,6 +15849,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.lusso-moda.de/*
 *://*.lusto.de/*
 *://*.lutricia-bock.de/*
+*://*.luuckylinen.com/*
 *://*.luuseal.de/*
 *://*.luuva.online/*
 *://*.luvelle.de/*
@@ -15495,6 +15894,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.luxuryforcheapgermany.de/*
 *://*.luxuryholidaysvilla.com/*
 *://*.luxuryjewelry.website/*
+*://*.luxurypillows.pk/*
 *://*.luxuryshoebags.com/*
 *://*.luxurystoreone.com/*
 *://*.luxuryustoreofficial.de/*
@@ -15505,6 +15905,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.luxusboutiquede.com/*
 *://*.luxusgeschenke24.com/*
 *://*.luxushangematten.com/*
+*://*.luxuskuechentraum.com/*
 *://*.luxusuhren.to/*
 *://*.luxwatch.store/*
 *://*.luxzafashion.com/*
@@ -15548,6 +15949,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.macixel.shop/*
 *://*.mack-reifen.com/*
 *://*.maclakshmeshwar.com/*
+*://*.maclvorbrianlaws.com/*
 *://*.macoens.com/*
 *://*.maconionsfx.com/*
 *://*.macorad.com/*
@@ -15565,6 +15967,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.madfjtlfd.top/*
 *://*.madfriesq.com/*
 *://*.madhukaal.com/*
+*://*.madinp.com/*
 *://*.madiparrotbreeders.com/*
 *://*.madison-fashion.com/*
 *://*.madmuscles.com/*
@@ -15786,6 +16189,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.marcoferretti.de/*
 *://*.marconzept.com/*
 *://*.marconzept.de/*
+*://*.marcopolorabatt.com/*
 *://*.marcoraulallaix.com/*
 *://*.marcos-machado.com/*
 *://*.marcosbrito.com/*
@@ -15860,8 +16264,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.markkrugel.de/*
 *://*.markmale.de/*
 *://*.markoljubanovic.com/*
+*://*.marktanhanger.de/*
 *://*.marktplatz-apo.com/*
 *://*.marktpro.de/*
+*://*.marktzauberbox.com/*
 *://*.marlene-wien.at/*
 *://*.marlenetasset.com/*
 *://*.marliesdrkorbel.com/*
@@ -15930,6 +16336,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.masori.shop/*
 *://*.massen.shop/*
 *://*.masseybedding.shop/*
+*://*.massimo-dutti.at/*
 *://*.massimoduttivipshop.com/*
 *://*.massive-deals.com/*
 *://*.masterbaushop.de/*
@@ -16046,6 +16453,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mbtwien.at/*
 *://*.mbxcontainer.shop/*
 *://*.mc-bau.at/*
+*://*.mc-brennholz.com/*
 *://*.mcazzgrg.com/*
 *://*.mccoyn.com/*
 *://*.mceleron.com/*
@@ -16085,6 +16493,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mechanit.top/*
 *://*.meclothly.com/*
 *://*.med-care.space/*
+*://*.med-direkt.com/*
 *://*.med-es.com/*
 *://*.med2med.at/*
 *://*.medeurope24.com/*
@@ -16129,6 +16538,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.medrezeptfrei.com/*
 *://*.meds-store-24h.com/*
 *://*.meds-tabs.com/*
+*://*.medsaurora.com/*
 *://*.medserverb.com/*
 *://*.medshopcpl.com/*
 *://*.medsi.fr/*
@@ -16185,6 +16595,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mein-pfotentraum.com/*
 *://*.mein-solar24.com/*
 *://*.mein-vintage-kleid.de/*
+*://*.meinarbeitsschutz.com/*
 *://*.meinardy.de/*
 *://*.meinautoprofi.at/*
 *://*.meinbeautycharms.com/*
@@ -16195,6 +16606,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.meindlschuhe.at/*
 *://*.meine-garten-oase.de/*
 *://*.meine-heizstation.com/*
+*://*.meine-ledertaschen.de/*
 *://*.meinearbeitsschuhe.com/*
 *://*.meinedirndl.com/*
 *://*.meinehilfe.at/*
@@ -16221,6 +16633,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.meinoel24.com/*
 *://*.meinradladen.com/*
 *://*.meintechnik.de/*
+*://*.meintherapiedecken.de/*
 *://*.meinwarenhaus.com/*
 *://*.meishops.top/*
 *://*.meissner-baustoffhandel.de/*
@@ -16239,6 +16652,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.melancy.xyz/*
 *://*.melaniewayment.com/*
 *://*.melbouqueterie.com/*
+*://*.melia-co.com/*
 *://*.melina-handel.de/*
 *://*.melis-solar.de/*
 *://*.melis-sport.de/*
@@ -16256,6 +16670,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mellifluently.shop/*
 *://*.melliloquent.shop/*
 *://*.melnbean.com/*
+*://*.melodiewerk.de/*
+*://*.melodigear.com/*
 *://*.melodiousal.com/*
 *://*.melody-barker.com/*
 *://*.melody-crafters.com/*
@@ -16270,6 +16686,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.memecoin.boo/*
 *://*.memede.de/*
 *://*.memgratorial.com/*
+*://*.memonei.com/*
 *://*.memorialm.net/*
 *://*.memorialxz.com/*
 *://*.memoryfoambra.com/*
@@ -16298,6 +16715,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.menhigh-level.com/*
 *://*.menikomi.com/*
 *://*.meniwe.xyz/*
+*://*.menke-bahr.com/*
 *://*.menoutsideorder.com/*
 *://*.menrily.com/*
 *://*.mens-offer.com/*
@@ -16379,6 +16797,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.meshzss.com/*
 *://*.mespetiteschimeres.fr/*
 *://*.messara-kreta.de/*
+*://*.messer-online-de.com/*
 *://*.messer-onsaleshop.com/*
 *://*.messershop24.com/*
 *://*.messgerateprofi.com/*
@@ -16415,6 +16834,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mexicotabs.com/*
 *://*.mexisale.com/*
 *://*.mexxireland.com/*
+*://*.meyerpoolwelt.com/*
 *://*.mezzaninfinanz.com/*
 *://*.mezzaninfintech.com/*
 *://*.mf-tennengau.at/*
@@ -16527,11 +16947,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.milleniumtradenetwork.com/*
 *://*.millimetrey.com/*
 *://*.millioncrystal.com/*
+*://*.millwoodshomege.com/*
 *://*.millyhomepool.com/*
 *://*.milodasy.com/*
 *://*.milonire.com/*
 *://*.milopup.de/*
 *://*.milopuzzle.shop/*
+*://*.milouamsterdam.nl/*
+*://*.milouberlin.de/*
 *://*.miloujewelrys.com/*
 *://*.milreo.shop/*
 *://*.miltonas.com/*
@@ -16605,6 +17028,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mirrorsunny.com/*
 *://*.mirry.xyz/*
 *://*.miscesure.top/*
+*://*.misciron.com/*
 *://*.misegxiu.com/*
 *://*.misello.fun/*
 *://*.misgift.de/*
@@ -16679,6 +17103,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mlektro.com/*
 *://*.mlkvip.com/*
 *://*.mmatrailers.com/*
+*://*.mmk-shoppingwelt.de/*
 *://*.mmontagnet.com/*
 *://*.mmoyoprop.com/*
 *://*.mmwggm.top/*
@@ -16707,6 +17132,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mobelniedrigerpreis.com/*
 *://*.mobelprada-de.com/*
 *://*.mobelspeichern-de.com/*
+*://*.mobelzuhause.com/*
 *://*.mobiche.com/*
 *://*.mobile-find.mobi/*
 *://*.mobile-wellnessoase.de/*
@@ -16761,6 +17187,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.modehaus-dresden.com/*
 *://*.modehaus-dusseldorf.de/*
 *://*.modehaus-elscheidt.de/*
+*://*.modehaus-kaiser.de/*
 *://*.modehaus-meyer.de/*
 *://*.modehaus-muenchen.de/*
 *://*.modehaus-reuter.com/*
@@ -16778,6 +17205,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.modellangebote.com/*
 *://*.modellbahn-store.com/*
 *://*.modellbahnhandel-deutschland.de/*
+*://*.modellbahnundmehr.com/*
 *://*.modellbau-rainer.at/*
 *://*.modellbaubillig.com/*
 *://*.modellbaukober.at/*
@@ -16786,6 +17214,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.modellkeller.com/*
 *://*.modellsupplystore.com/*
 *://*.modellverkaufs.com/*
+*://*.modellwelt24.com/*
 *://*.modelsrailroading.com/*
 *://*.modeltoys-new.com/*
 *://*.modeltoyssale.com/*
@@ -16802,6 +17231,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.moderatey.com/*
 *://*.modern-lady.com/*
 *://*.modernashoes.com/*
+*://*.modernegartenmobel.com/*
 *://*.modernhome-pro.com/*
 *://*.modernlightus.com/*
 *://*.modernpuzzle.shop/*
@@ -16817,6 +17247,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.modetalente.com/*
 *://*.modetopper.com/*
 *://*.modetoulouse.com/*
+*://*.modetraum.com/*
 *://*.modetrendhaus.de/*
 *://*.modeuniversum.com/*
 *://*.modeuniversum.store/*
@@ -16824,6 +17255,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.modewelt-24.de/*
 *://*.modeweltberlin.de/*
 *://*.modeweltparis.com/*
+*://*.modexa.de/*
 *://*.modificatiy.com/*
 *://*.modikle.com/*
 *://*.modioza.de/*
@@ -16929,6 +17361,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.montecwear.at/*
 *://*.montecwearable.com/*
 *://*.montecwearschweiz.com/*
+*://*.montela.de/*
 *://*.montflames.com/*
 *://*.montgerra.com/*
 *://*.montgerrar.com/*
@@ -17030,6 +17463,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.motorrad70.com/*
 *://*.motorraderhelme.de/*
 *://*.motorraders.de/*
+*://*.motorradteileshop.com/*
 *://*.motorsensen-shop.com/*
 *://*.motousretail.com/*
 *://*.motozone-pro.com/*
@@ -17095,6 +17529,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mrkt4trd.com/*
 *://*.mrlh.org/*
 *://*.mrmarkits.de/*
+*://*.mrraws.com/*
 *://*.mrscmott.com/*
 *://*.mrskweezer.com/*
 *://*.mrugalla-restaurator.de/*
@@ -17107,6 +17542,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.msfashionattire.com/*
 *://*.mshoestore.com/*
 *://*.mskauf.de/*
+*://*.msmmetallindustry.com/*
 *://*.msnanty.com/*
 *://*.mso-digital.top/*
 *://*.msogfree.com/*
@@ -17156,6 +17592,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.multioutdoorpro.com/*
 *://*.multiplesportnew.com/*
 *://*.multishop-us.com/*
+*://*.mulvanni.de/*
 *://*.mum-moden.de/*
 *://*.mumke.de/*
 *://*.munbrand.com/*
@@ -17221,6 +17658,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mustnce.com/*
 *://*.mutipre.shop/*
 *://*.muttermode.de/*
+*://*.muysale.cn/*
 *://*.muzenaudio.com/*
 *://*.mvbergweiler.de/*
 *://*.mvfurs.com/*
@@ -17245,6 +17683,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.my-schaschlik.shop/*
 *://*.my-slide.de/*
 *://*.myalpins.com/*
+*://*.myanglers-edge.com/*
 *://*.myautofficina.it/*
 *://*.myautomotorrad.com/*
 *://*.myavmbox.de/*
@@ -17300,6 +17739,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mynormanncopenhagen.com/*
 *://*.myogipost.com/*
 *://*.myonepieceshop.de/*
+*://*.myopaline.com/*
 *://*.mypartymall.com/*
 *://*.mypassion-tours.at/*
 *://*.myperfectpiece.de/*
@@ -17339,6 +17779,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.mytoys-eu.shop/*
 *://*.mytoysoutlet.shop/*
 *://*.mytoysoutlets.shop/*
+*://*.mytoystonies.com/*
 *://*.mytrangfranks.com/*
 *://*.mytrendyde.com/*
 *://*.mytruegadgets.com/*
@@ -17353,6 +17794,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.n5dlcjpxy.shop/*
 *://*.nabenprada.com/*
 *://*.naberkane.com/*
+*://*.nabolu.de/*
 *://*.nabsisq.com/*
 *://*.nachhaltig-mode.com/*
 *://*.nachtbim.at/*
@@ -17367,6 +17809,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nadinewelpezurverfgung.com/*
 *://*.nadiraimene.com/*
 *://*.nadmirery.com/*
+*://*.naehweltflach.com/*
 *://*.naehzentrum-haimerl.shop/*
 *://*.naehzentrum-haimerle.shop/*
 *://*.nagadpaiv.shop/*
@@ -17402,6 +17845,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.naoquea.com/*
 *://*.napapijrifashion.com/*
 *://*.napapijriverkauf.shop/*
+*://*.napoleonrabatt.com/*
 *://*.napsenakin.net/*
 *://*.narcsn.shop/*
 *://*.narellekayej.com/*
@@ -17435,6 +17879,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nativediscount.com/*
 *://*.natoriwomen.com/*
 *://*.nattelle.com/*
+*://*.nattoubabyspielzeug.com/*
 *://*.natur-held.de/*
 *://*.natura-zuda.de/*
 *://*.naturalhatu-shop.com/*
@@ -17443,6 +17888,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.naturallyk.com/*
 *://*.naturalzuda.de/*
 *://*.naturcontact.de/*
+*://*.natureglanz.com/*
 *://*.naturemarket24.com/*
 *://*.naturerlebnisde.com/*
 *://*.naturesuper.de/*
@@ -17464,6 +17910,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.naturwide.de/*
 *://*.naushwadood.com/*
 *://*.nauticasdeutschland.de/*
+*://*.nauticwerk.com/*
 *://*.navadexamazon.com/*
 *://*.navaro-shop.de/*
 *://*.navbe.de/*
@@ -17512,6 +17959,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.necklaceh.com/*
 *://*.necklacek.com/*
 *://*.necmarkt.com/*
+*://*.neded.de/*
 *://*.nederlandse-apotheek.com/*
 *://*.needdom.top/*
 *://*.needitor.xyz/*
@@ -17561,6 +18009,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nestleena.com/*
 *://*.nestproh.com/*
 *://*.nestrack.shop/*
+*://*.nestyheim.de/*
 *://*.net-inkasso.de/*
 *://*.net-profit.eu/*
 *://*.netcomsip.com/*
@@ -17599,6 +18048,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.neueoutdoor.de/*
 *://*.neuepcmode.com/*
 *://*.neuerelektromarkt.com/*
+*://*.neuertm7-vorwerk.com/*
 *://*.neueseudokument.com/*
 *://*.neuesichtweisen.at/*
 *://*.neueskateboardmode.com/*
@@ -17624,6 +18074,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.neumountainbike.com/*
 *://*.neunagel.de/*
 *://*.neurieker.com/*
+*://*.neuschmucken.com/*
 *://*.neuschuh-rabattde.com/*
 *://*.neuwerkzeug.com/*
 *://*.nevaehcoll.shop/*
@@ -17825,6 +18276,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.niceusopp.com/*
 *://*.nichespares.com/*
 *://*.nicheten.com/*
+*://*.nicikuscheltiere.com/*
 *://*.nickanii.com/*
 *://*.nicksun.at/*
 *://*.nickvroman.com/*
@@ -17977,6 +18429,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nonnatita.com/*
 *://*.nonoi-studio.shop/*
 *://*.nooeberln.store/*
+*://*.noor-hair.com/*
 *://*.nooranenonen.com/*
 *://*.nora-bergen.com/*
 *://*.noracora.com/*
@@ -18001,6 +18454,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nordjarl.shop/*
 *://*.nordoutlets.com/*
 *://*.nordperlen-verchen.de/*
+*://*.nordrtom.com/*
 *://*.nordspur.de/*
 *://*.nordstolz.com/*
 *://*.nordvian.com/*
@@ -18013,10 +18467,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.noricatimber.com/*
 *://*.noridloremall.com/*
 *://*.norion.xyz/*
+*://*.norleire.com/*
 *://*.normado.com/*
 *://*.normandy-omaha.fr/*
 *://*.noroki.com/*
 *://*.norra-nybacka.com/*
+*://*.norrloom.com/*
 *://*.norrona.vip/*
 *://*.norsacke.com/*
 *://*.norsk-apotek24.com/*
@@ -18128,6 +18584,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nsp-enterprises.com/*
 *://*.nsp-ie.com/*
 *://*.nsrarlou.shop/*
+*://*.ntbdiffusion.com/*
 *://*.ntccmw.top/*
 *://*.nte-logistics.com/*
 *://*.nteire.com/*
@@ -18164,12 +18621,15 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nursingaccessoriesstore.com/*
 *://*.nursingsale.store/*
 *://*.nurssery.com/*
+*://*.nutrimcaps.com/*
 *://*.nuttytoolpart.com/*
 *://*.nuvinodeutschland.com/*
+*://*.nuvistio.com/*
 *://*.nuvonda.shop/*
 *://*.nuxxu.de/*
 *://*.nv-logistic-trade-sl.com/*
 *://*.nv-neuburg.de/*
+*://*.nvcxa.com/*
 *://*.nvgevolgd.com/*
 *://*.nvgtndeutschland.de/*
 *://*.nvgtngermany.com/*
@@ -18181,7 +18641,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.nwmuster.de/*
 *://*.nwynner.shop/*
 *://*.nxsfund.com/*
+*://*.nxtstreetlondon.com/*
 *://*.nydjosterreich.com/*
+*://*.nyfolk.de/*
 *://*.nygsaxx.top/*
 *://*.nyutxe.shop/*
 *://*.nyxtrade.co/*
@@ -18209,6 +18671,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.obergoolem.com/*
 *://*.obermeyerski.com/*
 *://*.oberzone.com/*
+*://*.obibaumarkt.at/*
 *://*.obiecluse.com/*
 *://*.obikeparts.com/*
 *://*.obilero.de/*
@@ -18220,8 +18683,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.obo-7.top/*
 *://*.oboz-canada.net/*
 *://*.obozboots.com/*
+*://*.obozdeutschland.com/*
 *://*.obrath-gmbh.de/*
 *://*.obscuredepot.com/*
+*://*.obstbaumpflanzen.com/*
+*://*.obstbaumwelt.com/*
 *://*.obsthalle-froeschau.de/*
 *://*.obstkistefreiburg.shop/*
 *://*.obtainfish.com/*
@@ -18260,13 +18726,24 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.oebhw.at/*
 *://*.oefinancejm.com/*
 *://*.oeiprne.com/*
+*://*.oel24x.com/*
+*://*.oelfast.com/*
 *://*.oelfeld24.com/*
 *://*.oelgo.de/*
+*://*.oelhanse.com/*
 *://*.oelhaus24.com/*
+*://*.oelhub.com/*
 *://*.oelit.de/*
 *://*.oelity.de/*
+*://*.oelline.com/*
+*://*.oellogistik.com/*
 *://*.oelman.de/*
+*://*.oelmobil.com/*
+*://*.oelnow.com/*
+*://*.oelone.com/*
 *://*.oelpreisfinder.de/*
+*://*.oelrun.com/*
+*://*.oeltiger.com/*
 *://*.oeltix.de/*
 *://*.oeluno.de/*
 *://*.oeluu.de/*
@@ -18283,6 +18760,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.oewist.com/*
 *://*.oewpovgv.top/*
 *://*.oexpel.com/*
+*://*.ofengerate.com/*
+*://*.ofenhausfuchs.com/*
 *://*.ofenundzubehoer.com/*
 *://*.ofenzaubeer.com/*
 *://*.ofenzauber.com/*
@@ -18453,6 +18932,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.okjordans.com/*
 *://*.okmbure.shop/*
 *://*.oko-heizung.com/*
+*://*.okohausplus.com/*
 *://*.okonjoseph.com/*
 *://*.okrb.su/*
 *://*.okvdo.top/*
@@ -18879,6 +19359,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.optzonechild.com/*
 *://*.opulent-buy.com/*
 *://*.opulesque.top/*
+*://*.opyiazki.shop/*
 *://*.oqianlege.top/*
 *://*.oqocurry.com/*
 *://*.orability.top/*
@@ -18923,6 +19404,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.orenyay.com/*
 *://*.orevaparis.com/*
 *://*.orevapariss.com/*
+*://*.orextapetede.com/*
 *://*.orf-attoday.com/*
 *://*.orf-newsat.com/*
 *://*.orf24at.com/*
@@ -18950,15 +19432,18 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.orlend.com/*
 *://*.ornamentli.com/*
 *://*.ornamenttoy.com/*
+*://*.orppro.com/*
 *://*.orrebol.com/*
 *://*.ortho-magazin.de/*
 *://*.ortho-pulse.de/*
 *://*.ortho-shoes.at/*
+*://*.ortho-store.de/*
 *://*.ortho-vital.ch/*
 *://*.orthoback.com/*
 *://*.orthoback.de/*
 *://*.orthoday.de/*
 *://*.orthofabrik.de/*
+*://*.orthoflexcare.com/*
 *://*.orthofrei.com/*
 *://*.orthomode.de/*
 *://*.orthoomed.com/*
@@ -18977,6 +19462,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ortovoxosterreich.com/*
 *://*.ortovoxoutdooor.com/*
 *://*.ortovoxrabatt.de/*
+*://*.ortovoxs.at/*
 *://*.ortovoxsport.com/*
 *://*.orykas.de/*
 *://*.oryzom.de/*
@@ -19049,6 +19535,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ottowhale.com/*
 *://*.ottoxa.com/*
 *://*.ouacctv.com/*
+*://*.oubeaute.de/*
 *://*.oueintegral.com/*
 *://*.ouku.com/*
 *://*.ououtdoorpro.com/*
@@ -19059,6 +19546,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ourcheapluv.site/*
 *://*.oursreplica.com/*
 *://*.out-runningde.com/*
+*://*.outball.de/*
 *://*.outbuysnow.site/*
 *://*.outdoor-camping-discounts.com/*
 *://*.outdoor-eu.shop/*
@@ -19073,9 +19561,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.outdoor-vaude.com/*
 *://*.outdoorabbq.com/*
 *://*.outdoorasf.com/*
+*://*.outdoorausruestung.com/*
 *://*.outdoorback.com/*
 *://*.outdoorbarbecue.store/*
 *://*.outdoorbestsale.shop/*
+*://*.outdoorbillig.com/*
 *://*.outdoorcabelas.com/*
 *://*.outdoorcampzone.com/*
 *://*.outdoorclotheshot.com/*
@@ -19250,7 +19740,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.outweighm.top/*
 *://*.outwelloutdoor.com/*
 *://*.ovalball.com/*
+*://*.ovalestore.com/*
 *://*.ovens-onsale.com/*
+*://*.ovenshopde.com/*
 *://*.over-bicycle.com/*
 *://*.over-houseware.com/*
 *://*.over-sportswear.com/*
@@ -19442,6 +19934,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.paragonjewellers.com/*
 *://*.parajumpersitaly.com/*
 *://*.parakomm.at/*
+*://*.paramdionline.com/*
 *://*.paramount111.com/*
 *://*.paramounthomestore.com/*
 *://*.pardiar.com/*
@@ -19456,6 +19949,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.parkerrcox.com/*
 *://*.parkers-williams.com/*
 *://*.parkhomeware.com/*
+*://*.parkside-diy.com/*
 *://*.parkside-tienda.com/*
 *://*.parkside-uk.com/*
 *://*.parksldezmeu.com/*
@@ -19466,6 +19960,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.parpalett.com/*
 *://*.parsbergimmo.de/*
 *://*.parshaops.gq/*
+*://*.partbelong.com/*
 *://*.parteous.top/*
 *://*.partexploiter.com/*
 *://*.partgleise.de/*
@@ -19498,6 +19993,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.passionsfood.de/*
 *://*.passivo.io/*
 *://*.pastamanufakturde.shop/*
+*://*.pastateller-shop.com/*
 *://*.pastecoil.com/*
 *://*.pastillas-es.com/*
 *://*.pastol.de/*
@@ -19543,6 +20039,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pawheartmission.com/*
 *://*.pawsbeyonds.com/*
 *://*.pawshoebox.com/*
+*://*.paxmining.com/*
 *://*.paxosgloballogistics.com/*
 *://*.payback-masters.com/*
 *://*.paybestpet-shop.com/*
@@ -19611,6 +20108,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pedaleprada.com/*
 *://*.pedalesales.com/*
 *://*.pedalfreunde.de/*
+*://*.pedalpalast.de/*
 *://*.pedalyst.com/*
 *://*.pedbikecozy.com/*
 *://*.peditionch.com/*
@@ -19767,6 +20265,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.petstoress.com/*
 *://*.petsuppliesalewholesale.store/*
 *://*.petsupply.life/*
+*://*.petterholz.com/*
 *://*.pettnicey.com/*
 *://*.petworld-plus.com/*
 *://*.petyfy.com/*
@@ -19788,7 +20287,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pferdephysio-arndt.de/*
 *://*.pflanz-stein.de/*
 *://*.pflanzbedarfsladen.com/*
+*://*.pflanzsinn.com/*
 *://*.pflegeschonheit.com/*
+*://*.pforp.net/*
 *://*.pfoten-traum.com/*
 *://*.pfotenfans.com/*
 *://*.pfotentrend.com/*
@@ -19882,6 +20383,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.picknweisght.shop/*
 *://*.pickwise.top/*
 *://*.picom-nfz.de/*
+*://*.pictoart.net/*
 *://*.pictureframe-sale.com/*
 *://*.pictureoutdooor.com/*
 *://*.picturesquehouse.com/*
@@ -19908,6 +20410,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pillen-apotheke.net/*
 *://*.pillen-bestellen-rezeptfrei.de/*
 *://*.pillen-guenstig.de/*
+*://*.pillen-guenstiger-rezeptfrei.de/*
 *://*.pillen-versand.de/*
 *://*.pillenapotheke.com/*
 *://*.pillenapotheke.net/*
@@ -19960,6 +20463,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pioglobal.shop/*
 *://*.pioneertoolshop.com/*
 *://*.piouset.xyz/*
+*://*.pipecigardiscount.com/*
 *://*.piperandscoot.shop/*
 *://*.piperjewelry.shop/*
 *://*.pipetoolsale.com/*
@@ -20002,6 +20506,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.placex-x.shop/*
 *://*.placexs.shop/*
 *://*.plan-social.com/*
+*://*.planeoboden.com/*
 *://*.planetahoma.com/*
 *://*.planetebike24.de/*
 *://*.planetopia-online.de/*
@@ -20051,6 +20556,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pleasureboxing.com/*
 *://*.plegade.xyz/*
 *://*.plegly.xyz/*
+*://*.plekkonm.shop/*
 *://*.plentiture.de/*
 *://*.pleseeda.com/*
 *://*.plesiess.top/*
@@ -20099,6 +20605,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.plususwomen.com/*
 *://*.plutogdx.com/*
 *://*.pluvior.top/*
+*://*.plz-versand.de/*
 *://*.pm365.ga/*
 *://*.pm365.tk/*
 *://*.pmade.top/*
@@ -20170,11 +20677,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.polo-shirt-official.com/*
 *://*.polodresse2020.com/*
 *://*.polonia-bonn.de/*
+*://*.polooutlet.shop/*
 *://*.polsacs.com/*
 *://*.polskashop24.shop/*
 *://*.polster-franz.at/*
 *://*.polster-franz.de/*
 *://*.polsterei-daniels.de/*
+*://*.polsterzubehor.com/*
 *://*.polwestos.at/*
 *://*.polymerd.com/*
 *://*.polytic.top/*
@@ -20190,6 +20699,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.poolboys-onlineshop.de/*
 *://*.poolcosmetic.com/*
 *://*.poolfilterneu.de/*
+*://*.poolreinigerde.com/*
 *://*.poolsaunasupply.com/*
 *://*.poolshoesus.com/*
 *://*.poorit.top/*
@@ -20358,6 +20868,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.premium-union-credit.de/*
 *://*.premium-unipay-card.de/*
 *://*.premium-yields.com/*
+*://*.premiumee.com/*
 *://*.premiumer.co/*
 *://*.premiumfinancesolutionsltd.com/*
 *://*.premiumfunds.com/*
@@ -20401,6 +20912,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.prevalentw.com/*
 *://*.preventionsolution.com/*
 *://*.price-fee.com/*
+*://*.priceaiclub.com/*
 *://*.pricesboxstore.com/*
 *://*.priceslash.shop/*
 *://*.prigaudited.buzz/*
@@ -20467,6 +20979,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.pro-paypremium-card.de/*
 *://*.pro-sportshop.com/*
 *://*.pro-trends.co/*
+*://*.pro-truckmarket.com/*
 *://*.proaccessfacade.com/*
 *://*.proacehardware.com/*
 *://*.proactiveping.com/*
@@ -20476,6 +20989,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.probableo.com/*
 *://*.probies.de/*
 *://*.probikeclothes.com/*
+*://*.probikezubehor.com/*
 *://*.problembaum.at/*
 *://*.probutton-tech.de/*
 *://*.processus-online.de/*
@@ -20511,6 +21025,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.profibikes.de/*
 *://*.proficienct.com/*
 *://*.profile-residential.com/*
+*://*.profiofen.com/*
 *://*.profiraeder.de/*
 *://*.profiredner.at/*
 *://*.profiservice-24.info/*
@@ -20525,6 +21040,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.profumino.at/*
 *://*.profund-trade.com/*
 *://*.profxdesk.com/*
+*://*.progearoutdoor.com/*
 *://*.progressivehomeware.com/*
 *://*.prohomekit.com/*
 *://*.proinstrumentshop.com/*
@@ -20547,7 +21063,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.promoa.today/*
 *://*.promobivouac.com/*
 *://*.promochildheaven.com/*
+*://*.promodosterreich.at/*
 *://*.promohousehold.com/*
+*://*.promologichub.com/*
 *://*.promomarkt.store/*
 *://*.promopetretail.com/*
 *://*.promoprism.com/*
@@ -20582,6 +21100,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.propositiok.com/*
 *://*.prorcland.com/*
 *://*.proridegear.com/*
+*://*.proridergear.com/*
 *://*.proseccotrex.de/*
 *://*.proseliteinvest.com/*
 *://*.proskillpath.online/*
@@ -20624,6 +21143,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.provirtualoptions.com/*
 *://*.provoguesite.com/*
 *://*.prowerdrivertools.com/*
+*://*.prowerkparts.com/*
 *://*.prowira.de/*
 *://*.proximitye.com/*
 *://*.proximityi.com/*
@@ -20701,6 +21221,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.punctuak.com/*
 *://*.pungpat.com/*
 *://*.puniatory.top/*
+*://*.punjabicloud.com/*
 *://*.punkrave.ch/*
 *://*.puntdatac.com/*
 *://*.puntoblancoshop.com/*
@@ -20726,6 +21247,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.purprints.net/*
 *://*.purpurtic.top/*
 *://*.purrkit.shop/*
+*://*.pursure.com/*
 *://*.pushdryson.com/*
 *://*.pushup-bh.at/*
 *://*.pushup.at/*
@@ -20737,6 +21259,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.puustelli.top/*
 *://*.puzzle-solvingtoy.com/*
 *://*.puzzleschritte.de/*
+*://*.pv-analyse.com/*
 *://*.pv-norden.shop/*
 *://*.pvabazon.com/*
 *://*.pvanlage24.com/*
@@ -20856,6 +21379,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.quickiex.com/*
 *://*.quicklyfurniture.com/*
 *://*.quicklyic.top/*
+*://*.quickoel.com/*
 *://*.quickymarket-de.store/*
 *://*.quidsonoraa.com/*
 *://*.quietdarling.com/*
@@ -20925,6 +21449,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rabattfischer.de/*
 *://*.rabattfornasetti.de/*
 *://*.rabattgabor.de/*
+*://*.rabatthaustiers.com/*
 *://*.rabattherren.com/*
 *://*.rabatthope.de/*
 *://*.rabatthurley.de/*
@@ -20941,7 +21466,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rabattpicture.de/*
 *://*.rabattreifen.com/*
 *://*.rabattschuh.com/*
+*://*.rabattschuhs.com/*
 *://*.rabattsender.com/*
+*://*.rabattsfahrrads.com/*
 *://*.rabattski.com/*
 *://*.rabattskiausrustung.com/*
 *://*.rabattskide.com/*
@@ -20978,6 +21505,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.radbekleidung4u.com/*
 *://*.raddaempferklinik.shop/*
 *://*.rader-loewen.de/*
+*://*.raderstore.de/*
 *://*.radfahrenrabatt.com/*
 *://*.radhabeauty.shop/*
 *://*.radiadoresadicionales.com/*
@@ -20994,6 +21522,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.radonsale.com/*
 *://*.radschuhede.com/*
 *://*.radshoots.at/*
+*://*.radsportausrustung.com/*
 *://*.radsporttrikotoutlet.de/*
 *://*.radteamtrikots.com/*
 *://*.radtke-reifen.com/*
@@ -21195,6 +21724,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rebaznajeeb.com/*
 *://*.rebeauvais.com/*
 *://*.rebeckabohlin.com/*
+*://*.rebelssaints.com/*
 *://*.reber-handel.de/*
 *://*.rebora.net/*
 *://*.rebora.nl/*
@@ -21254,7 +21784,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.reebokosterreich.at/*
 *://*.reebokosterreichoutlet.com/*
 *://*.reef-deutschland.com/*
+*://*.reelmasterde.com/*
 *://*.reepner.com/*
+*://*.refiglim.buzz/*
 *://*.refiningfurniture.com/*
 *://*.reflectionu.com/*
 *://*.reflexionm.com/*
@@ -21292,6 +21824,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rehearsalk.com/*
 *://*.reichenauertafel.at/*
 *://*.reichtouch.com/*
+*://*.reicn.shop/*
 *://*.reidkanem.top/*
 *://*.reifemode.com/*
 *://*.reifen-burghardt.com/*
@@ -21357,6 +21890,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.reifen-wittig.com/*
 *://*.reifen-zeta.com/*
 *://*.reifen-ziegler.com/*
+*://*.reifenangebote.com/*
 *://*.reifenhandel-adam.shop/*
 *://*.reifenhandel-albrecht.com/*
 *://*.reifenhandel-bach.com/*
@@ -21452,6 +21986,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.reifkogel24.de/*
 *://*.reignsprime.com/*
 *://*.reiki4all.at/*
+*://*.reilbach-kanzlei.de/*
 *://*.reimer-autoreifen.com/*
 *://*.reimer-reifenhandel.com/*
 *://*.reindesign-garten.de/*
@@ -21478,10 +22013,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.reisen-engler.de/*
 *://*.reisen-weisen.de/*
 *://*.reisenthelstore.de/*
+*://*.reisenthelthel.com/*
 *://*.reisetaschenonshop.com/*
 *://*.reisetaschensale.com/*
 *://*.reisezumich.at/*
 *://*.reishungers.com/*
+*://*.reiterbrennholz.com/*
 *://*.reiterhof-geidner.de/*
 *://*.reiterstueberl.net/*
 *://*.related-ag.com/*
@@ -21522,6 +22059,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rennkurbelde.com/*
 *://*.rennrad-rabatte.com/*
 *://*.rennradergravel.com/*
+*://*.rennraderverkauf.com/*
 *://*.rennradgeschaft.com/*
 *://*.rent-a-sandman.de/*
 *://*.rentacar-programi.com/*
@@ -21718,6 +22256,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.riddingglovesprada.com/*
 *://*.ride-supply.com/*
 *://*.rideessence.com/*
+*://*.ridegefuhl.de/*
 *://*.ridelbergu.de/*
 *://*.ridendrive.store/*
 *://*.ridereadywear.com/*
@@ -21794,6 +22333,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rituals-outlet-eu.shop/*
 *://*.rituals-outlet.shop/*
 *://*.rituals-prize.com/*
+*://*.ritualsbdays.com/*
 *://*.ritualsorganic.com/*
 *://*.ritualsoutlets.com/*
 *://*.ritualsoutlets.shop/*
@@ -21861,6 +22401,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.robogartende.com/*
 *://*.roboinvest.at/*
 *://*.roborockoutlet.de/*
+*://*.roborocks.at/*
 *://*.robottagliaerbascontato.com/*
 *://*.robottonte.com/*
 *://*.robowerkstatten.com/*
@@ -22001,11 +22542,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rossmann-partnership.shop/*
 *://*.rossmannoutlet.shop/*
 *://*.rossmannoutlets.shop/*
+*://*.rostikuche.com/*
 *://*.rostiza.com/*
 *://*.rostock-recht.de/*
 *://*.rostockferienhaus.de/*
 *://*.rostockhaf.de/*
 *://*.roswitha-boutique.com/*
+*://*.rot91.com/*
 *://*.rotateepic.com/*
 *://*.rotaterevol.com/*
 *://*.rotatingrodde.com/*
@@ -22016,6 +22559,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.rothause.de/*
 *://*.rothen-burg.de/*
 *://*.rothman-rasenmaher.com/*
+*://*.rotterdamsunny.com/*
 *://*.rotyka.com/*
 *://*.roudamo.shop/*
 *://*.roujedeutschland.com/*
@@ -22045,6 +22589,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.royaldiam.com/*
 *://*.royaldimex.com/*
 *://*.royalfright-logistics.com/*
+*://*.royalinspire.com/*
 *://*.royalinvestmentconsortium.com/*
 *://*.royalkitten.at/*
 *://*.royalranaltd.com/*
@@ -22101,6 +22646,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ruenro.com/*
 *://*.rueping-garten.de/*
 *://*.rufenpurify.com/*
+*://*.ruffweargeschaft.com/*
 *://*.rug-officialshop.com/*
 *://*.rug-smith.uk/*
 *://*.rugbysincere.com/*
@@ -22115,6 +22661,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ruhmvollsteuer.com/*
 *://*.ruhrgeratrabatt.com/*
 *://*.ruhrmove.de/*
+*://*.rukaoutdoors.com/*
 *://*.rukez.de/*
 *://*.ruladamusic.com/*
 *://*.rulfloor.com/*
@@ -22344,6 +22891,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.salegolfshop.com/*
 *://*.salegoodthings.com/*
 *://*.salehandmade.com/*
+*://*.salehealthfoods.com/*
 *://*.salehikingshop.com/*
 *://*.salehome-items.com/*
 *://*.salehome-kit.com/*
@@ -22380,6 +22928,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.saleplushtoy.shop/*
 *://*.salepp.online/*
 *://*.salercsite.com/*
+*://*.salesaddle.com/*
 *://*.salesagemart.com/*
 *://*.salesballbearing.com/*
 *://*.salesbuildingmaterial.com/*
@@ -22392,12 +22941,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.saleseur.com/*
 *://*.salesglovesbaseball.com/*
 *://*.saleshave.com/*
+*://*.saleshedet.click/*
 *://*.saleshoemall.com/*
 *://*.saleshomesupply.com/*
 *://*.saleshometool.com/*
 *://*.saleshopclimbing.com/*
 *://*.saleshopplus.com/*
 *://*.saleshyanne.com/*
+*://*.saleskaufende.com/*
 *://*.saleskitchenaid.com/*
 *://*.salesmenswear.com/*
 *://*.salesoft.store/*
@@ -22574,6 +23125,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sanukschuhe.de/*
 *://*.sanukschuhekaufen.com/*
 *://*.sanukschuheosterreich.com/*
+*://*.sanuvalue.com/*
 *://*.saolar-deutschland.com/*
 *://*.sapgadget.com/*
 *://*.saphirvogel.de/*
@@ -22670,6 +23222,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.scanbesten.de/*
 *://*.scanbuymart.com/*
 *://*.scandifurn.com/*
+*://*.scandinavianbeauties.com/*
 *://*.scannero.io/*
 *://*.scanpanoutlet.com/*
 *://*.scarpa-outlet-online.shop/*
@@ -22699,12 +23252,15 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schellenschmie.de/*
 *://*.schemecarce.net/*
 *://*.schemette.top/*
+*://*.scheppachwerkzeuge.com/*
 *://*.scherenrabatt.com/*
 *://*.scherenschnitte.at/*
 *://*.scheu-fahrrad.com/*
 *://*.scheubner.net/*
+*://*.schickercamping.com/*
 *://*.schickort.de/*
 *://*.schiffbootsteile.com/*
+*://*.schildbaum-gartencenter.de/*
 *://*.schillerstore.de/*
 *://*.schilling-reifenversand.com/*
 *://*.schirdewahn-autorin.de/*
@@ -22716,6 +23272,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schlaftabletten-rezeptfrei.org/*
 *://*.schlagerarchiv.de/*
 *://*.schlagschrauberfive.com/*
+*://*.schlauchegeschaft.com/*
 *://*.schleckt.com/*
 *://*.schleifmuehlgasse.at/*
 *://*.schloss-pichler.at/*
@@ -22734,12 +23291,14 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schlussmit.at/*
 *://*.schmerz-stopper.de/*
 *://*.schmid-autoreifen.com/*
+*://*.schmid-rechtsanwaelte.de/*
 *://*.schmidmodesalzburg.de/*
 *://*.schmidt-boutique.de/*
 *://*.schmidt-reifenhandel.shop/*
 *://*.schmidtmode.de/*
 *://*.schmidtstil.com/*
 *://*.schmiede-kunst.at/*
+*://*.schmiedemode.de/*
 *://*.schmierstoffede.com/*
 *://*.schmit-mode.com/*
 *://*.schmitz-anhanger.com/*
@@ -22768,6 +23327,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schneider-schmuckatelier.de/*
 *://*.schneiderdusseldorf.de/*
 *://*.schneidermode.com/*
+*://*.schneiderrabatt.com/*
 *://*.schneiders-bikehouse.com/*
 *://*.schneidersalzburg.at/*
 *://*.schneiderundlang.de/*
@@ -22789,6 +23349,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.scholarathelite.com/*
 *://*.scholl-elektro.com/*
 *://*.schollshoesireland.com/*
+*://*.schonedamenmode.com/*
+*://*.schonentag.online/*
 *://*.schonesfahrradangebote.com/*
 *://*.schoneswetter.de/*
 *://*.schonewelpenzuverkaufen.de/*
@@ -22800,6 +23362,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schradearea.com/*
 *://*.schrader-reifen.com/*
 *://*.schrankede.com/*
+*://*.schraubenpro.com/*
 *://*.schraubheld24.de/*
 *://*.schreiber-autoreifen.shop/*
 *://*.schreiner-rasenmaher.com/*
@@ -22827,6 +23390,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schuhesalede.de/*
 *://*.schuhescarpa.de/*
 *://*.schuheveja-osterreich.com/*
+*://*.schuheverkauf-de.com/*
 *://*.schuhevionic-de.com/*
 *://*.schuhewienshoponline.com/*
 *://*.schuhheld.com/*
@@ -22869,6 +23433,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.schweizer-reifen.com/*
 *://*.schweizerchronik-news.com/*
 *://*.schwestertanja.com/*
+*://*.schwfoto.com/*
 *://*.scientificw.com/*
 *://*.scieriebarlet.com/*
 *://*.scifianimetoy.com/*
@@ -22890,9 +23455,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.screenfreedays.com/*
 *://*.screenmysleep.com/*
 *://*.screenpixe.com/*
+*://*.scremorques.com/*
 *://*.scribot.top/*
 *://*.scriptmanuo.com/*
 *://*.sctaltq.com/*
+*://*.scuffers-austria.com/*
 *://*.scuffersosterreich.at/*
 *://*.sculpturerugs.com/*
 *://*.sculpturk.com/*
@@ -22903,6 +23470,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sdctool.com/*
 *://*.sdealdee.com/*
 *://*.sdfqcza.shop/*
+*://*.sdhguy.com/*
 *://*.sdhzdislavice.cz/*
 *://*.sdk-transport.com/*
 *://*.sdmndpkrec.com/*
@@ -22923,6 +23491,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.seasonalhalloween.com/*
 *://*.seasonsay.com/*
 *://*.seatakus.com/*
+*://*.seatpostverkauf.com/*
 *://*.seawideca.com/*
 *://*.sebastian-schmitz.shop/*
 *://*.sebastian-stenzel.de/*
@@ -23057,6 +23626,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sentenceeat.online/*
 *://*.senthiln.top/*
 *://*.sentimentw.com/*
+*://*.sentis.club/*
 *://*.senzza.de/*
 *://*.separaten.com/*
 *://*.sepgoal.com/*
@@ -23230,7 +23800,6 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.shingekishop.com/*
 *://*.shinnyuie.com/*
 *://*.shinyflakes.de/*
-*://*.shinyhair.de/*
 *://*.shinypluff.com/*
 *://*.shipafreight.com/*
 *://*.shipdriverca.com/*
@@ -23241,6 +23810,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.shippills.com/*
 *://*.shirem.com/*
 *://*.shirenr.shop/*
+*://*.shirohana.shop/*
 *://*.shirt-creativ.at/*
 *://*.shirts-shopsales.com/*
 *://*.shirtsandpolosde.com/*
@@ -23467,6 +24037,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.shopperwebs.com/*
 *://*.shopperworldx.com/*
 *://*.shoppesurf.com/*
+*://*.shoppewerkzeug.com/*
 *://*.shoppigmentde.shop/*
 *://*.shopping-at.com/*
 *://*.shopping-mag.de/*
@@ -23500,6 +24071,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.shopsnowski.com/*
 *://*.shopsoutlet2021.ru/*
 *://*.shopsoyala.com/*
+*://*.shopspeedparts.com/*
 *://*.shopsportcutprice.com/*
 *://*.shopsportfashion.com/*
 *://*.shopsportoff.com/*
@@ -23564,6 +24136,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.siaoryne.com/*
 *://*.sibuyan.de/*
 *://*.sicatio.com/*
+*://*.sicher-oel.de/*
 *://*.sichersparen.com/*
 *://*.sideershop.com/*
 *://*.sidelinejerseys.com/*
@@ -23585,6 +24158,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.signiefysubo.com/*
 *://*.sigxnazz.shop/*
 *://*.siifik.shop/*
+*://*.siilance.com/*
 *://*.sikandeer.com/*
 *://*.sikarint.com/*
 *://*.sikatechnologie.com/*
@@ -23653,6 +24227,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sinu24.de/*
 *://*.sinxli.com/*
 *://*.siobhanoudahar.com/*
+*://*.siore.shop/*
 *://*.siorra.nl/*
 *://*.siouxshoe.com/*
 *://*.sipsbyde.shop/*
@@ -23696,6 +24271,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sivanitanerland.com/*
 *://*.sivhome.com/*
 *://*.siwetr.com/*
+*://*.sixcv.shop/*
 *://*.sixtrading.net/*
 *://*.sizilien-haus.de/*
 *://*.sizzle24.de/*
@@ -23738,10 +24314,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.skecherstoresbest.de/*
 *://*.skelett-neu.com/*
 *://*.skf-logistics.com/*
+*://*.skfveckc.shop/*
 *://*.ski-apparel.com/*
 *://*.ski-coaches.com/*
 *://*.ski-outlet.de/*
 *://*.ski-watersports.com/*
+*://*.skiartikelverkaufe.com/*
 *://*.skidepotvip.net/*
 *://*.skiequipmentsneu.com/*
 *://*.skifahren-de.com/*
@@ -23762,8 +24340,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.skims-deutschland.com/*
 *://*.skims.at/*
 *://*.skimsschweiz.com/*
+*://*.skina.nu/*
 *://*.skincareshophd.com/*
 *://*.skincci.net/*
+*://*.skinliy.com/*
 *://*.skinnfitts.com/*
 *://*.skinny-outlet.com/*
 *://*.skinnysc.com/*
@@ -23822,6 +24402,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.slimezu.store/*
 *://*.slimfit-sales.com/*
 *://*.slimmgummies.com/*
+*://*.slimorol.info/*
 *://*.slimvitax.com/*
 *://*.slimyky.today/*
 *://*.slipfootwear.com/*
@@ -23865,6 +24446,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.smartfortunehub.com/*
 *://*.smartguardtrades.online/*
 *://*.smarthomevi.com/*
+*://*.smartkochen.com/*
 *://*.smartmoney-deal-now.com/*
 *://*.smartnurseca.com/*
 *://*.smartplantivy.com/*
@@ -23929,6 +24511,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.snipezhunter.de/*
 *://*.snitactical.com/*
 *://*.snk-cargos.com/*
+*://*.snmea.shop/*
 *://*.snoemya.shop/*
 *://*.snoopysmoke-vape.com/*
 *://*.snovequita.com/*
@@ -23973,6 +24556,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sofasensation.com/*
 *://*.sofasundsessel.com/*
 *://*.sofawunsch.de/*
+*://*.sofia-adler.com/*
 *://*.sofiacleto.com/*
 *://*.sofialucasjoyeria.es/*
 *://*.sofiamode.de/*
@@ -23981,6 +24565,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sofortapotheke.nl/*
 *://*.soft-ballworld.com/*
 *://*.soft-handel.de/*
+*://*.soft-lizenz.de/*
 *://*.softelektro.com/*
 *://*.softgarments.com/*
 *://*.softpulse.digital/*
@@ -24016,8 +24601,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.solarenergiemarkt.com/*
 *://*.solarien-berlin.de/*
 *://*.solarplanet24.net/*
+*://*.solarpowerde.com/*
 *://*.solarpvwerkzeug.com/*
-*://*.solartechnik-direct.de/*
+*://*.solarspeichersysteme.com/*
 *://*.solartermin.de/*
 *://*.solarversorgung.com/*
 *://*.solarwind-shop.com/*
@@ -24080,6 +24666,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sommer-angebote.com/*
 *://*.sommer-mode.co/*
 *://*.sommerekzem.at/*
+*://*.sommerklei.com/*
 *://*.sommerschmieds-handel.de/*
 *://*.somni-ring.com/*
 *://*.somoa.at/*
@@ -24093,6 +24680,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sonatarice.com/*
 *://*.sondracluer.com/*
 *://*.sonerly.com/*
+*://*.sonetiacrcb.shop/*
 *://*.sonfastore.com/*
 *://*.soniabettini.com/*
 *://*.soniamallw.com/*
@@ -24193,6 +24781,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.specialistm.net/*
 *://*.specialized-world.com/*
 *://*.specializednewbike.com/*
+*://*.specializeds.at/*
 *://*.specializeg.com/*
 *://*.specialmdassortment.com/*
 *://*.specialmenswear.com/*
@@ -24238,13 +24827,16 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.spielemaxi.com/*
 *://*.spielewelt.shop/*
 *://*.spielmobil-ottocar.de/*
+*://*.spielprokonsole24.shop/*
 *://*.spielsmarkt.com/*
 *://*.spielwaren-fisiu.de/*
 *://*.spielwarenneu.de/*
 *://*.spielzeug-schuster.com/*
 *://*.spielzeug-traum.com/*
 *://*.spielzeug-wunderwelt.com/*
+*://*.spielzeugautowelt.com/*
 *://*.spielzeugdisney.de/*
+*://*.spielzeugelektronik.com/*
 *://*.spielzeugladenprada.com/*
 *://*.spielzeugneue.com/*
 *://*.spielzeugschmie.com/*
@@ -24262,7 +24854,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.spirits-official.com/*
 *://*.spiritualsalt.co/*
 *://*.spirituelle-ecke.com/*
+*://*.spirituosenfest.com/*
 *://*.spirituosenlager.com/*
+*://*.spirituosenrabatt.com/*
 *://*.spitfiregirl.shop/*
 *://*.spitz-ik.at/*
 *://*.splendah.de/*
@@ -24283,18 +24877,23 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sport-lab42.de/*
 *://*.sport-rausch.de/*
 *://*.sport-sivia.de/*
+*://*.sport-verkaufs.com/*
 *://*.sportabo.at/*
 *://*.sportandoutdoorstore.com/*
 *://*.sportapothekeonline.com/*
+*://*.sportartikelbox.com/*
 *://*.sportartikelwelt.com/*
 *://*.sportausrustung-de.com/*
+*://*.sportausstattung24.de/*
 *://*.sportbekleidung-de.com/*
+*://*.sportbekleidungde.com/*
 *://*.sportbhsshop.com/*
 *://*.sportbrandkit.com/*
 *://*.sportbrandshoes.com/*
 *://*.sportcutprice.com/*
 *://*.sportdamen.de/*
 *://*.sportemporiumgift.com/*
+*://*.sportfishtackle-de.com/*
 *://*.sportfrisky.com/*
 *://*.sportgoodsorder.com/*
 *://*.sporthome19.com/*
@@ -24304,6 +24903,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sportiago.shop/*
 *://*.sportkindly.com/*
 *://*.sportkitstore.com/*
+*://*.sportkleidungwelt.com/*
 *://*.sportkluftshop.shop/*
 *://*.sportkollektion.com/*
 *://*.sportmediterran.at/*
@@ -24311,6 +24911,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sportmodemarken.com/*
 *://*.sportmusthave.com/*
 *://*.sportnewsdirect.com/*
+*://*.sportprodukteverkauf.com/*
 *://*.sportprosport.com/*
 *://*.sports-off.com/*
 *://*.sports-rugby.com/*
@@ -24361,6 +24962,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.springergarde.shop/*
 *://*.springstepshoesde.shop/*
 *://*.spriteliving.com/*
+*://*.spruhfarbenprofi.com/*
 *://*.spsfurntiure.com/*
 *://*.sptlego.de/*
 *://*.sptrmusag.com/*
@@ -24422,9 +25024,11 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.stanclara.com/*
 *://*.stand-mixer-shop.com/*
 *://*.standard-investing.com/*
+*://*.standard-oel.de/*
 *://*.standardearning.online/*
 *://*.stanfpv.com/*
 *://*.stanley-cups.at/*
+*://*.stanley-cups.de/*
 *://*.stanley-sale.com/*
 *://*.stanley1913.com/*
 *://*.stanleycupthailand.com/*
@@ -24448,6 +25052,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.stargatev.com/*
 *://*.starherobit.com/*
 *://*.starintegrated.ltd/*
+*://*.stark-ebike.de/*
 *://*.starlaaarthi.com/*
 *://*.starlight-peace.net/*
 *://*.starpres.top/*
@@ -24487,6 +25092,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.steamfaerie.com/*
 *://*.steamtoy-store.com/*
 *://*.steedtrade.com/*
+*://*.steelcabinetsonline.com/*
 *://*.steelite-au.com/*
 *://*.steeltoolspro.com/*
 *://*.steen-text.de/*
@@ -24503,6 +25109,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.stehle-fritz.de/*
 *://*.steinberg-modehaus.de/*
 *://*.steinbergpretsch.de/*
+*://*.steinbohrershop.com/*
 *://*.steiner-autoreifen.com/*
 *://*.steiner-reifen.com/*
 *://*.steiner-wien.at/*
@@ -24756,6 +25363,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.stretsure.com/*
 *://*.streurmann.de/*
 *://*.streuwagenprada.de/*
+*://*.strickwareverkauf.com/*
 *://*.stricttofu.com/*
 *://*.stridepure.de/*
 *://*.strielkowski.com/*
@@ -24784,6 +25392,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.studiolivde.shop/*
 *://*.studiominq.com/*
 *://*.studiomrb.it/*
+*://*.studiosflora.de/*
 *://*.studioskyg.com/*
 *://*.studiummaris.com/*
 *://*.studsgrass.com/*
@@ -24903,6 +25512,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.stylistaland.com/*
 *://*.styllein.com/*
 *://*.stylow.de/*
+*://*.su168.top/*
 *://*.suasdom.xyz/*
 *://*.subbstantial.com/*
 *://*.subhmobiles.com/*
@@ -24915,6 +25525,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.subtletoys.com/*
 *://*.subtracty.com/*
 *://*.subttles.com/*
+*://*.suburbantote.com/*
 *://*.success-minds.com/*
 *://*.successful-trade.com/*
 *://*.successorie.com/*
@@ -25086,6 +25697,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.supplyvintageus.com/*
 *://*.supportfortross.org/*
 *://*.suppotent.com/*
+*://*.supprofi.com/*
 *://*.supps-for-life.to/*
 *://*.supraine.top/*
 *://*.supraschuhe-wien.com/*
@@ -25099,6 +25711,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.supreme-codes.shop/*
 *://*.supreme-osterreich.com/*
 *://*.supremede-de.com/*
+*://*.supremedeutschland.de/*
 *://*.supremeosterreich.com/*
 *://*.supreoutletosterreich.com/*
 *://*.supromo.de/*
@@ -25176,6 +25789,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.sveni.shop/*
 *://*.svenska-mediciner.com/*
 *://*.sverigewind.com/*
+*://*.svetozar.org/*
 *://*.svgautov.com/*
 *://*.svhhandel.de/*
 *://*.svhuwsales.com/*
@@ -25246,6 +25860,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.swimyearn.com/*
 *://*.swiss-bitcoins-etf.de/*
 *://*.swiss-bitcoins.de/*
+*://*.swiss-cleaner.de/*
 *://*.swiss-funding.com/*
 *://*.swiss-vests.com/*
 *://*.swissalgo.org/*
@@ -25357,6 +25972,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.takeyabottleusa.com/*
 *://*.taki-taki.de/*
 *://*.takoerv.com/*
+*://*.takones.cl/*
 *://*.taktikinvestakademie.com/*
 *://*.taktischewelt.com/*
 *://*.tal-der-wikinger.de/*
@@ -25389,7 +26005,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tanjatillman.com/*
 *://*.tankvorteil.de/*
 *://*.tanrasi.com/*
+*://*.tanzbienen.de/*
 *://*.tanzen-ist-gesundheit.de/*
+*://*.tanzkurq.de/*
 *://*.taogloi.com/*
 *://*.taotaopartsdirect.shop/*
 *://*.tapetette.top/*
@@ -25487,6 +26105,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.techaccessoriesshop.com/*
 *://*.techdata-promo.at/*
 *://*.techfleeece.com/*
+*://*.techilabs.com/*
 *://*.techmidnews.com/*
 *://*.techminik.com/*
 *://*.technaport.de/*
@@ -25516,6 +26135,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.teesindesign.com/*
 *://*.teetassenstore.com/*
 *://*.teethersale.com/*
+*://*.teeto.de/*
 *://*.teewunder.com/*
 *://*.tefaal.com/*
 *://*.tegernsee-boutique.de/*
@@ -25541,6 +26161,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tellwalkandtalk.com/*
 *://*.telmexhelu.ltd/*
 *://*.telrgram.skin/*
+*://*.teltow-apotheke-berlin.de/*
 *://*.telttamyyda.com/*
 *://*.temadbv.com/*
 *://*.temala.de/*
@@ -25568,6 +26189,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tennis-quality.com/*
 *://*.tennis-total.com/*
 *://*.tennisagile.com/*
+*://*.tennisbedarf.com/*
 *://*.tennisfinest.com/*
 *://*.tennismusthave.com/*
 *://*.tennisnew.com/*
@@ -25581,6 +26203,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tepffd.com/*
 *://*.teppichversand24.de/*
 *://*.tepwise.top/*
+*://*.teralin-de.store/*
 *://*.terange.com/*
 *://*.teras.at/*
 *://*.teratrade.co/*
@@ -25844,6 +26467,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.theoprax-sachsen.de/*
 *://*.theopticalsafety.com/*
 *://*.theordinarys.at/*
+*://*.theordinarys.de/*
 *://*.theosloeye.com/*
 *://*.theoutdoorequip.com/*
 *://*.theoutdoorsgear.com/*
@@ -25893,6 +26517,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.thermograph.at/*
 *://*.thermometeronsale.com/*
 *://*.thermomix-restposten.de/*
+*://*.thermomix-vorwerk-tm7.de/*
 *://*.thermopain.com/*
 *://*.thermoscup-shop.com/*
 *://*.thermoshapers.de/*
@@ -26052,10 +26677,12 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tierhandlungszuchter.com/*
 *://*.tierheimweisz.com/*
 *://*.tiernahrungoutlet.com/*
+*://*.tierparadies-de.com/*
 *://*.tierpflegeprodukte.com/*
 *://*.tierra500.com/*
 *://*.tierrasales.de/*
 *://*.tiershopbillig.com/*
+*://*.tierwelthub.de/*
 *://*.tiffanyblakeney.com/*
 *://*.tiffanydumant.com/*
 *://*.tightaccessories.com/*
@@ -26126,6 +26753,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.titel-kaufen.com/*
 *://*.titit.shop/*
 *://*.title-fighting.com/*
+*://*.titleistrabatt.com/*
 *://*.tittaturune.com/*
 *://*.tiveone.com/*
 *://*.tiweng.top/*
@@ -26146,6 +26774,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tlecl.com/*
 *://*.tlodus.de/*
 *://*.tm-preisvergleich.de/*
+*://*.tm7-vorwerk.com/*
 *://*.tmallprints.com/*
 *://*.tmarmstrong.com/*
 *://*.tmcsalesmk.shop/*
@@ -26224,14 +26853,18 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tonda-reifen.com/*
 *://*.tondeusediscount.com/*
 *://*.tonedo.de/*
+*://*.tonies-geschaft.com/*
 *://*.tonies-rabatt.com/*
 *://*.tonies-rabattpreis.com/*
 *://*.tonies-sonderangebot.com/*
 *://*.tonies-spezialangebot.com/*
+*://*.toniesbesttoys.com/*
 *://*.toniesosterreich.at/*
 *://*.toniespielzeug.com/*
+*://*.toniesrabatt.com/*
 *://*.toniesschritte.com/*
 *://*.toniessonderangebot.com/*
+*://*.toniesverkauf-de.com/*
 *://*.tonigk.com/*
 *://*.tonikg.com/*
 *://*.toniwi.com/*
@@ -26241,6 +26874,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tonssure.top/*
 *://*.tonundart.de/*
 *://*.tonweise.at/*
+*://*.tooao.de/*
 *://*.toobuyss.com/*
 *://*.tooeut.com/*
 *://*.tool-arealimit.com/*
@@ -26303,6 +26937,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.toolregionlead.com/*
 *://*.toolreliable.com/*
 *://*.tools-genius.com/*
+*://*.tools-market.vip/*
 *://*.tools-total.com/*
 *://*.toolsalezone.com/*
 *://*.toolsandtuning.com/*
@@ -26350,6 +26985,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.toolzonedeal.com/*
 *://*.toolzonepro.com/*
 *://*.toolzoneshop.com/*
+*://*.toomo.de/*
 *://*.toonzshop.at/*
 *://*.toostande.com/*
 *://*.top-apotheke.net/*
@@ -26392,6 +27028,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.topmarkets.cc/*
 *://*.topmedstore.de/*
 *://*.topmodeltoys.com/*
+*://*.topmotorcycleparts.com/*
 *://*.topnotinengaging.top/*
 *://*.topo-laufschuhe.de/*
 *://*.topoathleticschuhe.at/*
@@ -26403,6 +27040,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.toposchuheonlineshop.com/*
 *://*.topoutdoorsport.com/*
 *://*.topoutsport.com/*
+*://*.toppdf.co/*
 *://*.toppillsstore.com/*
 *://*.toppota.com/*
 *://*.toppreisshop.com/*
@@ -26547,6 +27185,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tracksmithdeutschland.com/*
 *://*.tracybudd.shop/*
 *://*.trade-gpt.ai/*
+*://*.trade-mbitm.com/*
 *://*.trade-strategy.net/*
 *://*.trade-swimwear.com/*
 *://*.trade-trendy.com/*
@@ -26667,6 +27306,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.trecek.at/*
 *://*.treekidsn.com/*
 *://*.treffenzeit.com/*
+*://*.tregfinance.com/*
 *://*.trekandtravelde.shop/*
 *://*.trekshoppe.com/*
 *://*.trematic.top/*
@@ -26824,8 +27464,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tryfono.com/*
 *://*.tryglamory.de/*
 *://*.tryglycogenplus.com/*
+*://*.tryhavenmere.com/*
 *://*.trykiyao.com/*
 *://*.trylovestore.site/*
+*://*.trylumivera.com/*
 *://*.trynori.de/*
 *://*.tryshoplove.site/*
 *://*.trysoftr.com/*
@@ -26870,6 +27512,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.ttygwronline.com/*
 *://*.ttygwrstore.com/*
 *://*.tualurge.com/*
+*://*.tuckerandwelch.com/*
 *://*.tucnea.com/*
 *://*.tudio.de/*
 *://*.tuficcryptoassets.com/*
@@ -26880,6 +27523,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.tunespot.de/*
 *://*.tungaloytools.com/*
 *://*.tuning-king.shop/*
+*://*.tunneltentsonline.com/*
 *://*.tuonani.shop/*
 *://*.tupforward.com/*
 *://*.tupperware-de.shop/*
@@ -26895,6 +27539,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.turbojust.com/*
 *://*.turbolidlcraft.com/*
 *://*.turboplanter.at/*
+*://*.turboswim.com/*
 *://*.turchyn.de/*
 *://*.turkeycoachrental.com/*
 *://*.turngod.com/*
@@ -26947,6 +27592,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.typealive.shop/*
 *://*.typeline.de/*
 *://*.typeoptclothes.com/*
+*://*.typesoflampe.com/*
 *://*.typicaldeal.com/*
 *://*.typicallyca.com/*
 *://*.typisch-tierliebe.de/*
@@ -27619,6 +28265,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.varoza.de/*
 *://*.vartis.at/*
 *://*.vasagleangebote.de/*
+*://*.vasagleaugeschaft.com/*
 *://*.vasaglede.com/*
 *://*.vaschoen.com/*
 *://*.vaskash.com/*
@@ -27702,6 +28349,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vejoheza.top/*
 *://*.velanoshop.com/*
 *://*.velaro-plus.com/*
+*://*.velencia.de/*
 *://*.velhaven.net/*
 *://*.velinon-reifen.com/*
 *://*.vellamia.de/*
@@ -27716,6 +28364,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.veloura.at/*
 *://*.veloush.de/*
 *://*.veloznegrinyanet.com/*
+*://*.velvacosmetics.com/*
 *://*.velvetparfumde.com/*
 *://*.velvezev.ru/*
 *://*.vemoso-shop.de/*
@@ -27724,6 +28373,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.venacquaro.it/*
 *://*.vencolife.com/*
 *://*.vendenity.com/*
+*://*.vendifysave.com/*
 *://*.vendingtzdoo.com/*
 *://*.vendorhub.store/*
 *://*.vendorra-dusseldorf.com/*
@@ -27747,6 +28397,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.venzaniberlin.de/*
 *://*.veok.de/*
 *://*.vera-mode.com/*
+*://*.vera-modehaus.com/*
 *://*.veradam.com/*
 *://*.veralo.de/*
 *://*.veralosa.com/*
@@ -27767,6 +28418,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.verifizierungamericanexpress.com/*
 *://*.vering24.de/*
 *://*.verios-gaming.de/*
+*://*.verkauf-garten.com/*
 *://*.verkauf-motorrad.com/*
 *://*.verkauf-rezeptfrei.de/*
 *://*.verkauf-scooter.com/*
@@ -27774,6 +28426,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.verkaufbike.com/*
 *://*.verkaufen-tonies.com/*
 *://*.verkauffahrradbike.com/*
+*://*.verkaufpflanzen.com/*
 *://*.verkaufschuhe.de/*
 *://*.verkaufsportmode.com/*
 *://*.verkehrsbande.com/*
@@ -27877,7 +28530,6 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.viarecta.net/*
 *://*.viarkes.top/*
 *://*.viarla.com/*
-*://*.viasalutis.de/*
 *://*.vibeheat.com/*
 *://*.vibekehvilsom.com/*
 *://*.vibelivingroom.com/*
@@ -27920,6 +28572,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.viennastil.at/*
 *://*.vierjahreszeiten-versand.com/*
 *://*.vierjahreszeiten-versands.de/*
+*://*.vierjahreszeitengarten.com/*
 *://*.vierpfote.de/*
 *://*.vieweffort.com/*
 *://*.viewhird.com/*
@@ -27931,6 +28584,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vigo-transportspedition.com/*
 *://*.vigoroussport.com/*
 *://*.vigorousu.com/*
+*://*.vikingchic.de/*
 *://*.vikosiwelpen.com/*
 *://*.viktoriapieper.com/*
 *://*.vilbridis.com/*
@@ -27938,6 +28592,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vilicus.solar/*
 *://*.villaholidaysibiza.com/*
 *://*.villards-stammholz.com/*
+*://*.villeroy-outlets.shop/*
 *://*.villeroyboch-eu.shop/*
 *://*.villite.xyz/*
 *://*.vilow.de/*
@@ -27950,6 +28605,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vinemos.de/*
 *://*.vinero.at/*
 *://*.vinissage.de/*
+*://*.vinospezial.com/*
 *://*.vinospiritus.com/*
 *://*.vinrongdo.com/*
 *://*.vinsrougesboutique.com/*
@@ -28025,6 +28681,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vitalprojekte.at/*
 *://*.vitalshieeld.com/*
 *://*.vitalvigoury.com/*
+*://*.vitalwelt-apotheken.de/*
 *://*.vitamin-schmiede24.de/*
 *://*.vitawellshop.shop/*
 *://*.vitev.net/*
@@ -28096,6 +28753,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vl-soudure.com/*
 *://*.vlappartient.com/*
 *://*.vlgqq.com/*
+*://*.vliestapeten.com/*
 *://*.vlizo-berlin.de/*
 *://*.vlizo-modehaus.de/*
 *://*.vlizo-modehaus.shop/*
@@ -28174,6 +28832,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vogueusshoes.com/*
 *://*.vogueussupplier.com/*
 *://*.voguewelt.de/*
+*://*.voguezeitberlin.store/*
 *://*.voiceform.top/*
 *://*.volanixedgeai.com/*
 *://*.volcomaustria.at/*
@@ -28189,6 +28848,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.volina.de/*
 *://*.volini.de/*
 *://*.volk-reifen.com/*
+*://*.volkeep.de/*
 *://*.volker-edelmann.shop/*
 *://*.volker-kirchgeorg.de/*
 *://*.volker-technik.de/*
@@ -28206,7 +28866,9 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vollmer-replica.com/*
 *://*.vollytools.shop/*
 *://*.volt-elecontric.de/*
+*://*.voltabuy.com/*
 *://*.voltbankinternational.com/*
+*://*.voltedage.com/*
 *://*.voltryzapex.app/*
 *://*.voltryzapex.at/*
 *://*.volture.de/*
@@ -28224,6 +28886,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vonoehsen-hifi.com/*
 *://*.vonpleissenstein.shop/*
 *://*.vonpundl.de/*
+*://*.vonscarberry.com/*
 *://*.vontirolywood.at/*
 *://*.vontompower.de/*
 *://*.vonvtrsi.shop/*
@@ -28253,6 +28916,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.vortexelectricals.com/*
 *://*.vorwerk-com.de/*
 *://*.vorwerk-deutschland.de/*
+*://*.vorwerk-tm7.at/*
 *://*.vorwerk-tm7.de/*
 *://*.vorzeltede.com/*
 *://*.vosen.shop/*
@@ -28319,6 +28983,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.waco-logistics.com/*
 *://*.wadada.online/*
 *://*.wadriha.shop/*
+*://*.waffeleisende.com/*
 *://*.waffenundjagdwelt.com/*
 *://*.wafhong.shop/*
 *://*.wafturef.com/*
@@ -28343,6 +29008,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.waldholz.net/*
 *://*.waldkoboldede.shop/*
 *://*.waldnaht.shop/*
+*://*.waldorfmode.com/*
 *://*.walfa.co/*
 *://*.walinea-grill.de/*
 *://*.walk23.de/*
@@ -28357,6 +29023,8 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wallpilates.com/*
 *://*.walm.shop/*
 *://*.walmede.shop/*
+*://*.walmorder.top/*
+*://*.walsenburgstudio.com/*
 *://*.waltade.shop/*
 *://*.waltapparel.com/*
 *://*.walteo.com/*
@@ -28398,6 +29066,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.waren-kontor24.de/*
 *://*.warenmax.com/*
 *://*.warenwelt-eu.com/*
+*://*.waresco.com/*
 *://*.waresfishingus.com/*
 *://*.waresmergechic.com/*
 *://*.waresnewbike.com/*
@@ -28426,6 +29095,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.warrantyi.com/*
 *://*.warrior-us.com/*
 *://*.warthunder.at/*
+*://*.wascheparfum.at/*
 *://*.wascheparfume.de/*
 *://*.washmass.com/*
 *://*.washstudy.com/*
@@ -28433,6 +29103,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wasserbetten-centrum.at/*
 *://*.wasserflorade.com/*
 *://*.wasserflorashop.com/*
+*://*.wasserpflegede.com/*
 *://*.wasserpumpede.de/*
 *://*.wassersheriff.at/*
 *://*.wastedumpg.com/*
@@ -28597,6 +29268,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.weinfreundea1s-de.com/*
 *://*.weingut-erbeldinger.shop/*
 *://*.weinlover.com/*
+*://*.weinonlinestore.com/*
 *://*.weinrabatt.com/*
 *://*.weinskandal.shop/*
 *://*.weinsteincorp.biz/*
@@ -28619,6 +29291,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.well-sufourge.net/*
 *://*.wellawhite.com/*
 *://*.wellbeing24zone.com/*
+*://*.wellen-steyn.de/*
 *://*.wellensteynj.com/*
 *://*.wellensteynjacke.de/*
 *://*.wellensteynjackenoutlet.org/*
@@ -28627,6 +29300,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wellmirrorca.com/*
 *://*.wellness-ostsee.com/*
 *://*.wellneswonder.com/*
+*://*.wellott.com/*
 *://*.wellreplicas.to/*
 *://*.wellsbaby.shop/*
 *://*.wellvest.pro/*
@@ -28641,6 +29315,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.weltentdeckerisbach.shop/*
 *://*.weltex.co/*
 *://*.weltneushop.com/*
+*://*.weltteppiche.com/*
 *://*.wemidwestkids.com/*
 *://*.wenaviety.com/*
 *://*.wendt-bautischlerei.de/*
@@ -28661,12 +29336,15 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.weretail.site/*
 *://*.werisee.com/*
 *://*.werk-garten.de/*
+*://*.werk-werkzeuge.com/*
 *://*.werkboxpro.com/*
+*://*.werkgeist.com/*
 *://*.werkvoorraden.com/*
 *://*.werkzeug-salesshop.com/*
 *://*.werkzeug-zuhr.de/*
 *://*.werkzeugangebot.shop/*
 *://*.werkzeugbauladen.com/*
+*://*.werkzeuge-maschinen.com/*
 *://*.werkzeugebefestigung.com/*
 *://*.werkzeugebohrer.de/*
 *://*.werkzeugedirekt.one/*
@@ -28684,6 +29362,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.werkzeugschritte-de.com/*
 *://*.werkzeugverkauf.com/*
 *://*.werkzeugversorgung.com/*
+*://*.werner-handel24.de/*
 *://*.werner-lederer.de/*
 *://*.werner-mode.de/*
 *://*.werner-reinke.shop/*
@@ -28694,8 +29373,10 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wertvollewelpenzuradoption.com/*
 *://*.wesiou.com/*
 *://*.westcinch.com/*
+*://*.westcoastpinball.eu/*
 *://*.westdeadwood.com/*
 *://*.westen-berg.de/*
+*://*.western-cowboy-shop.de/*
 *://*.westernandcowboy.de/*
 *://*.westerncowboyboot.com/*
 *://*.westernhats.net/*
@@ -28704,6 +29385,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.westic-shop.de/*
 *://*.westickers.com/*
 *://*.westiels.de/*
+*://*.westlando.de/*
 *://*.westpointcourier.online/*
 *://*.westpopular.com/*
 *://*.westshares.com/*
@@ -28739,6 +29421,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.whilester.top/*
 *://*.whiskertails.com/*
 *://*.whiskybests.com/*
+*://*.whiskysorten.com/*
 *://*.whisperpromise.shop/*
 *://*.whisperyard.com/*
 *://*.whitecoatjourney.com/*
@@ -28818,6 +29501,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wildlingshoesuk.com/*
 *://*.wildlingshoeswien.at/*
 *://*.wildmodesoldes.com/*
+*://*.wildschlaf.com/*
 *://*.wildweststructures.com/*
 *://*.wilehuppy.com/*
 *://*.wilfriedngatchi.com/*
@@ -28852,6 +29536,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.windyys.com/*
 *://*.wineaccessorize.com/*
 *://*.winecom.shop/*
+*://*.wineglassessaleshop.com/*
 *://*.winessaleshop.com/*
 *://*.winicoin.com/*
 *://*.winifredbe.com/*
@@ -28879,6 +29564,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wirtshaus-schoeneck.at/*
 *://*.wirva.de/*
 *://*.wisatareligi.com/*
+*://*.wisdomandprudence.net/*
 *://*.wisdombuyo.com/*
 *://*.wise-carrytrucks.com/*
 *://*.wisecapitalx.com/*
@@ -28909,6 +29595,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wlinme.com/*
 *://*.wlockbelo.com/*
 *://*.wloom.com/*
+*://*.wmartdatalist.com/*
 *://*.wmbra.de/*
 *://*.wmfoutlet-de.shop/*
 *://*.wmindweb.top/*
@@ -28936,6 +29623,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wohnideebilder.shop/*
 *://*.wohnish.de/*
 *://*.wohnkuchede.com/*
+*://*.wohnliebe-berlin.de/*
 *://*.wohnungdirekt.at/*
 *://*.wohnungdirekt.com/*
 *://*.wohnungen-wohnen.de/*
@@ -28956,6 +29644,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wolfmode.de/*
 *://*.wolframsshop.shop/*
 *://*.wolftoothbike.com/*
+*://*.wolfytienda.cl/*
 *://*.wolke-hundebett.de/*
 *://*.wolkeksunst.shop/*
 *://*.wolkenschaukel.de/*
@@ -29125,6 +29814,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.wuzmi.shop/*
 *://*.wv-langen.de/*
 *://*.wwhhwwh.top/*
+*://*.wwllan.com/*
 *://*.wwmode.de/*
 *://*.wwweleganceclothing.com/*
 *://*.wxinthai.com/*
@@ -29175,6 +29865,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.xflyrc.com/*
 *://*.xftg03.solutions/*
 *://*.xfvss.com/*
+*://*.xglcclij.shop/*
 *://*.xh-a7.com/*
 *://*.xhfadacai.com/*
 *://*.xhkstore.info/*
@@ -29351,6 +30042,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.yneibour.top/*
 *://*.ynnter.com/*
 *://*.ynysillus.com/*
+*://*.yobiliy.de/*
 *://*.yoebag.com/*
 *://*.yoga-wear-eu.com/*
 *://*.yogaathleta.de/*
@@ -29375,11 +30067,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.yoocaa.com/*
 *://*.yoohal.com/*
 *://*.yoolo.shop/*
+*://*.yooso.de/*
 *://*.yorky.site/*
 *://*.yortree.com/*
 *://*.yoselt.de/*
 *://*.yoshino.at/*
 *://*.yotasmsl.com/*
+*://*.youdenovahome.shop/*
 *://*.youdmall.ga/*
 *://*.youdmall.gq/*
 *://*.youfold.top/*
@@ -29452,6 +30146,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.yydspan.com/*
 *://*.yydsshop.com/*
 *://*.yyearsale.com/*
+*://*.yyluckbb.com/*
 *://*.yyscamping.com/*
 *://*.yyyqqqqqqq.top/*
 *://*.yzchrzx.com/*
@@ -29466,12 +30161,15 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zahrahana.top/*
 *://*.zainabchemicals.com/*
 *://*.zaizaigo.com/*
+*://*.zaladowintersale.shop/*
 *://*.zalandode.com/*
+*://*.zalandoonline.de/*
 *://*.zalandoovip.vip/*
 *://*.zalandora.com/*
 *://*.zalandorio.com/*
 *://*.zalieroo.de/*
 *://*.zallona.de/*
+*://*.zalori.de/*
 *://*.zalova.de/*
 *://*.zalvori.com/*
 *://*.zalzach.com/*
@@ -29485,6 +30183,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zanvon.com/*
 *://*.zanzea.com/*
 *://*.zaonilneusa.com/*
+*://*.zapaka.de/*
 *://*.zapatasnb.top/*
 *://*.zapatillasadi.es/*
 *://*.zapatosnk.top/*
@@ -29535,6 +30234,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zefreya.com/*
 *://*.zeghad.com/*
 *://*.zeigdeinbein.de/*
+*://*.zeigstil.com/*
 *://*.zeit-modehaus.com/*
 *://*.zeitloseliebe.de/*
 *://*.zeitlosliebe.de/*
@@ -29544,6 +30244,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zeliteduhk.com/*
 *://*.zeltkinggear.com/*
 *://*.zeltneu.com/*
+*://*.zeltundschlaf.com/*
 *://*.zemacys.com/*
 *://*.zemsaffiliate.com/*
 *://*.zemti.de/*
@@ -29552,6 +30253,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zengyt.com/*
 *://*.zenidol.info/*
 *://*.zenla.de/*
+*://*.zeno-paris.shop/*
 *://*.zenova-shop.de/*
 *://*.zenovaa.store/*
 *://*.zenspacetrade.com/*
@@ -29577,6 +30279,7 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zevarpalace.pk/*
 *://*.zevoon.de/*
 *://*.zeynoa.de/*
+*://*.zezzo.de/*
 *://*.zgodstorm.com/*
 *://*.zh1capital.com/*
 *://*.zhljrsb.com/*
@@ -29596,11 +30299,13 @@ homepage: https://github.com/particlelevel/uBlacklist-fake-shops-german
 *://*.zifuliangm.com/*
 *://*.zigaretten-bestellen.net/*
 *://*.zigber.com/*
+*://*.zigoff.de/*
 *://*.zilmet.at/*
 *://*.zilool.com/*
 *://*.zimmer-uetersen.de/*
 *://*.zimmermangruppe.ch/*
 *://*.Zimmermannmode.de/*
+*://*.zimmerpflanzens.com/*
 *://*.zimtahorn.de/*
 *://*.zimtsterncycle.com/*
 *://*.zindova.net/*
